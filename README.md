@@ -7,7 +7,7 @@ Mod is not limited only on fixes, it also includes restoration of some things, c
 
 **Note:** if you got some weird stuff (flying buildings, random objects instead of weapon pickups) after installing this mod, then start a new game and check if the problem is gone.
 
-If you wish to report 
+***If you wish to report issues, please either use this [SPREADSHEET](https://docs.google.com/spreadsheets/d/1Pkg-UWIaWC0FhOuUdPb0O1a8IhJVfcovyYHCHQoB7Ms/edit?usp=sharing), or leave a post in [issues](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/issues). Thank you!
 
 ## Just Fixes
 
