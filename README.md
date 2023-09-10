@@ -91,6 +91,8 @@ Main part of the mod, which includes only fixes for things that look and work in
 - Fixed hotel worker scenario coordinates in South Slopes.
 - Fixed peds wall leaning scenario coordinates in Westdyke.
 - Fixed park gardering scenario in East Hook, now peds perform this scenario in Rotterdam Hill.
+- Fixed issue that caused manhat02.ide to break save files. If you have installed this file and didn't make a backup, then you can get one from "Update 1.5.1" folder.
+- Fixed issue with broken buildings LODs during night time in Berchem and Acter (problem was found on CE version, and therefore was not solved on time).
 
 #### Screenshots
 ![AMXzUQJ](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/abcb3563-3fd9-45d5-9e72-fcd7b924a0ff) 
@@ -170,6 +172,49 @@ This section includes other people's work that has been provided for the mod.
 
 ### Console content by [Parallellines](https://gtaforums.com/profile/1317965-parallellines/)
 - Restored console lights (lamppost coronas; more intense kitchen light in Roman's apartment).
+
+### Fixes by [Valentyn_L](https://gtaforums.com/profile/1324680-valentyn_l/)
+- Firefly Island and boardwalk:
+  - Fixed dark AO on Hove Beach pier LOD.
+  - Fixed boardwalk railing meshes, stair and railing UV tiling, railing placement and collisions, and covered-up seams on curved paths.
+  - Fixed overly reflective building rooves.
+  - Fixed Firefly Island Amphitheater broken normals, pillar on face of building, and broken geometry on brick arches.
+  - Fixed broken normals and smoothing groups.
+  - Fixed buntings, wires, and fences not casting shadows due to wrong material being assigned.
+  - Replaced boardwalk stall ground texture for consistency.
+  - Fixed Parachute Jump tower top grating back-face culling, adjusted UV maps, added specular and normal maps.
+  - Fixed Parachute Jump tower courtyard yellow brick wall and fencing (missing faces and too much duplicate geometry), and incorrect poster UV mapping.
+  - Fixed gazebo normals, UV maps, and floor specular mapping.
+  - Fixed powerlines that were not using gta_wires material.
+  - Reverted subway station glass windows materials to gta_cutout, added specular maps to glass, fixed  normals and wrongly assigned materials.
+  - Fixed overly reflective large residential buildings due to incorrect specular maps.
+  - Adjusted pier boards texture and fixed missing pillar collision under pier.
+  
+- Hove Beach, area surrounding Roman's Apartment:
+  - Fixed dark AO in courtyard behind Johnson's building.
+  - Assigned correct gta_cutout_fence material to tree fencing.
+  - Fixed Johnson's and Brief Fascination buildings: fixed mesh holes, normals and smoothing groups, back-face culling on details, overly reflective roof and building faces, added reflective glass material to storefronts, adjusted Johnson's sign positions and positioning of night signs.
+  - Fixed floating powerline anchoring (WIP).
+  - Fixed "Hove Beach Liberty City" tinsels not casting shadows.
+  - Fixed powerlines that were not using gta_wires material.
+  - Fixed LomBank normals and added specular and normal maps to windows and granite material.
+  - Fixed large residential building behind LomBank AO intensity and dark streaking and roof fence not casting shadow.
+  
+- Hove Beach:
+  - Fixed overly reflective large residential buildings due to incorrect specular maps.
+  - Fixed missing Native American Engines sign and building mesh.
+  - Fixed triangular ad pole missing a sign near RON Gas Station, UV fixes.
+  - Fixed back of building located under Broker Bridge face AO being too dark.
+  - Fixed Diner 69 sign not casting shadow, roof specular tiling, and specular maps improvements.
+  
+- Downtown:
+  - Fixed UV mapping on roof of warehouse beside "Rigged to Blow" mission bomb truck location and adjusted AO intensity.
+  
+- South Bohan, across player apartment:
+  - Fixed 24/7 signs and building normals.
+  
+- Props:
+  - Improved drinking fountain to better fit reference photo, added specular and normal maps.
 
 #### Screenshots
 ![I1OuKge](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/b0a84ddd-4879-4ac7-ab50-91a1f2f5b8e9)
