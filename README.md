@@ -91,8 +91,27 @@ Main part of the mod, which includes only fixes for things that look and work in
 - Fixed hotel worker scenario coordinates in South Slopes.
 - Fixed peds wall leaning scenario coordinates in Westdyke.
 - Fixed park gardering scenario in East Hook, now peds perform this scenario in Rotterdam Hill.
-- Fixed issue that caused manhat02.ide to break save files. If you have installed this file and didn't make a backup, then you can get one from "Update 1.5.1" folder.
+- Fixed issue that caused manhat02.ide to break save files. If you have installed this file and didn't make a backup, then you can get one from "Update x.x.x" folder.
 - Fixed issue with broken buildings LODs during night time in Berchem and Acter (problem was found on CE version, and therefore was not solved on time).
+- Changed roof glass texture on Hove Beach subway station to match console one.
+- Fixed M_Y_Chinvend_01 upper clothing textures.
+- Restored beta roof texture at Brucie's garage, as well as the roofs of several buildings near this garage.
+- Restored couple more unused shop signs in Hove Beach, also adapted LOD textures for them.
+- Restored missing ads on the Algonquin - Dukes expressway near the bus depot.
+- Fixed antenna LOD on bus depot in Downtown.
+- Fixed missing LOD texture of ad frame in BOABO.
+- Fixed very intense reflections on some buildings in Hove Beach.
+- Restored ad close to police station in Hove Beach.
+- Restored construction scaffs in Alderney City on Bedrock St.
+- Restored missing skylights on some buildings in Rotterdam Hill.
+- Added transparency to titles so they match console ones.
+- Fixed very intense reflections on roof of the ferry station in Algonquin.
+- Restored unused shop sign in East Island City near the laundromat place.
+- Fixed broken sign LOD in Airport.
+- Fixed very intense reflection of the score board in Northwood.
+- Fixed missing shadows of the fire escapes in Downtown and Schottler.
+- Fixed very intense reflection on road signs in North Holland.
+- Restored unused "Ammu Nation" shop sign in front of the Maisonette 9 nightclub.
 
 #### Screenshots
 ![AMXzUQJ](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/abcb3563-3fd9-45d5-9e72-fcd7b924a0ff) 
@@ -102,6 +121,8 @@ Main part of the mod, which includes only fixes for things that look and work in
 ![DqIRVIU](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/97c6a91a-122f-41f0-8b6d-cb4a4f4b014a)
 ![vSnJNeK](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/a2f7775a-e8d1-45cc-a7b9-aa75487f69f9)
 ![rrSyJMw](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/2c5dd095-7605-4b58-9486-9064ab978317)
+![E44qwSc](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/ee497f66-ac49-40a2-90e1-942acb0330ad)
+![Pq5RrZq](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/6af1d804-8ab5-4085-9f59-71a4a238615b)
 
 ---
 
@@ -173,7 +194,7 @@ This section includes other people's work that has been provided for the mod.
 ### Console content by [Parallellines](https://gtaforums.com/profile/1317965-parallellines/)
 - Restored console lights (lamppost coronas; more intense kitchen light in Roman's apartment).
 
-### Fixes by [Valentyn_L](https://gtaforums.com/profile/1324680-valentyn_l/)
+### Fixes and improvements [Valentyn_L](https://gtaforums.com/profile/1324680-valentyn_l/)
 - Firefly Island and boardwalk:
   - Fixed dark AO on Hove Beach pier LOD.
   - Fixed boardwalk railing meshes, stair and railing UV tiling, railing placement and collisions, and covered-up seams on curved paths.
@@ -216,6 +237,15 @@ This section includes other people's work that has been provided for the mod.
 - Props:
   - Improved drinking fountain to better fit reference photo, added specular and normal maps.
 
+### Fixes and improvements [_CP_](https://gtaforums.com/profile/257839-_cp_/)
+- Fixed broken beach LOD texture in Firefly Island.
+- Fixed double fence model in Firefly Island.
+- Fixed flickering graffiti in Middle Park toilet mirror.
+- Added lights to Schottler tunnel.
+
+Fixes by [TheYoshiPunch](https://gtaforums.com/profile/1145901-theyoshipunch/)
+- Fixed M_Y_Gangel_01 hair texture.
+
 #### Screenshots
 ![I1OuKge](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/b0a84ddd-4879-4ac7-ab50-91a1f2f5b8e9)
 ![I1OuKge](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/8e11dd9d-34af-480a-8aa0-d5b18b912e08)
@@ -223,27 +253,29 @@ This section includes other people's work that has been provided for the mod.
 ![TSlfBAR](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/c7ec52f1-34b0-4f34-8a54-abc2dce71b16)
 ![5enLfHe](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/844fa884-882b-421c-bcb5-13d95f066f22)
 ![rcowgRB](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/b4626e26-89c9-46f5-9a58-948aed4171c6)
-![01](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/3bf3ab63-9ed3-47f7-8f9b-ac425ff9160f)
-![02](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/9a156f69-e300-4ce4-bea7-94c782ae94f4)
-![03](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/63793b88-07dd-41d6-b174-1d604bf29546)
-![04](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/93f1f88e-22ab-4a56-afef-58df803fd9c9)
-![05](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/de404968-b83e-4e52-b53b-ddd6f2cf65b4)
-![07](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/6e554919-7dcf-4e39-ac40-b4267248d37e)
-![08](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/27398009-77fc-4414-af0c-18f5a2b92746)
-![09](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/126f94f5-09d6-4ea0-b92e-14af3c929a3a)
-![10](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/eee340b7-d05a-46ea-b471-214128910eb2)
-![11](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/748a696e-9755-4053-8339-6fcdc212aa6b)
-![12](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/1e37fb69-30db-4824-89b2-8f99055c95ae)
-![13](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/6190d3b1-c11f-4565-8658-5ee19b3c615d)
-![15](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/ca86cb50-b904-4dc7-96d2-845bbd72771b)
-![16](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/c4797b25-741b-43d3-88b3-10f7fa05d41d)
-![18](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/2685e6e9-2b0a-495b-85a6-95f18b5c0ccb)
-![20](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/1fe4103b-6d87-46b3-b337-b06c96d2f72a)
-![21](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/38804145-b606-4826-b02f-a808fd8a012c)
-![17](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/8785d7ee-32df-40fc-beef-120c3574af45)
-![19](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/246c12c5-509c-4846-be63-6290fe8fd44d)
-![22](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/50ce2172-eef9-4c4f-aab6-c7c3586e9bed)
-![06](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/db505b9d-cdff-4b0d-8976-8277103c910c)
+![02](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/fc086f6e-0a64-401f-b2e9-e03a1bbbf8fd)
+![03](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/026d0868-3847-46dc-ba89-a179d6865777)
+![04](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/e4807642-d756-4ad6-94e6-ff9fdc67d670)
+![07](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/58793662-743d-43ef-8638-b466df62d511)
+![08](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/18588497-36fc-4e55-97c0-ac8fec942aa1)
+![18](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/8200e09b-833c-4feb-b5b2-b7eeb62e1763)
+![20](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/7e953920-6f6d-42e7-a753-3dd54a5fc67c)
+![01](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/e9b040a4-2969-4536-b189-68dbdb016933)
+![05](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/d7475bc2-76dc-4af8-85eb-d27c04ef0eb3)
+![09](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/c714aaa1-6ea9-43f3-9d61-bbd8af0ca00b)
+![13](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/d0b8b160-a15a-4c1a-b05a-55f8ff067438)
+![12](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/a577f3a9-46bc-40ac-bbf6-f37a372f7f0d)
+![11](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/19c46eba-2e15-4227-b80e-ca53ce33cede)
+![10](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/0fbeb4ce-f5d0-4f4f-9266-21e3361709d8)
+![16](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/850e7c8a-517c-4f9f-9e90-d097b91739f1)
+![15](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/cea95e7c-b30f-424d-aa99-494f53c81851)
+![21](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/3a5d676f-1152-4097-be4d-1eafb8b15ba1)
+![17](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/20c990e7-5c51-422d-9f37-7a1972c5cbb1)
+![19](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/0364568e-b719-43da-acdc-4f948b4d9daf)
+![22](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/a3ce19ad-30ad-4128-a39b-608e40714312)
+![06](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/6aec00d7-0fe4-4afd-9f22-33a5fcf21487)
+![LXJtrZe](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/43fc950a-3b4e-463e-aca0-492ec1cae677)
+![O1xZs8B](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/7235ed50-83a4-40bc-aa86-a363f7267984)
 
 ---
 
