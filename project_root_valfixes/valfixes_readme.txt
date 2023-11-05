@@ -94,19 +94,6 @@ cifount1_ksxr_.wdr
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 brook_s_4.wbn brook_s_6.wbn
 brook_s_7.wbn
 brook_s_13.wbn
@@ -116,3 +103,18 @@ coneystalls1_01.wtd ks_coneypier.wtd
 
 Consolidated fixes:
 -
+
+11/05/2023
+-Minor fixes to Firefly Island boardwalk stalls/buildings
+-Fixed Dukes Police Station stuccos
+-Fixed Middle Park East Safehouse lampshades casting shadows
+-Fixed Firefly Island Projects shadow acne and roof normals/smoothing groups
+-Restored shadows to misc objects such as wires, grates, fences, etc.
+-Fixed Broker Hospital normals, smoothing groups, and warped UVs
+-Restored wire material to most wires (WIP)
+-Restored St Openshaw texture and fixed dark AO on smokestack beside Algonquin Bridge
+-Fixed dark AO in building courtyard in Broker
+-Fixed dark AO in Liberty Island park grass
+-Fixed Broker docks car spawn road collision
+-Fixed Bohan construction site ramp collision and one-way glass collision that would trap the player
+-Fixed Firefly Island boardwalk ground collision holes
