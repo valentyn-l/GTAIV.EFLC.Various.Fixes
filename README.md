@@ -112,17 +112,45 @@ Main part of the mod, which includes only fixes for things that look and work in
 - Fixed missing shadows of the fire escapes in Downtown and Schottler.
 - Fixed very intense reflection on road signs in North Holland.
 - Restored unused "Ammu Nation" shop sign in front of the Maisonette 9 nightclub.
+- Fixed pile of rubbish transparency in Schottler.
+- Fixed issue with roof fences not casting shadows in Northwood, Bohan, Firefly Projects.
+- Fixed issue with "Golden Pier" canopy not casting shadows in Algonquin.
+- Fixed issue with fence not casting shadows on Charge Island baseball field.
+- Fixed wrong mesh material on building roof in Beechwood City.
+- Fixed wrong rail material in Hove Beach.
+- Fixed transparency on "330th Anniversary" posters in Alderney City.
+- Reduced reflections on Brucie's garage in East Book.
+- Fixed issue with missing shadows on Broker-Dukes tunnel.
+- Fixed wrong fence material on big building in Beachgate, also improved roof texture of this building.
+- Fixed wrong balcony mesh material on buildings in Rotterdam Hill.
+- Fixed broken parking LOD texture in Middle Park West.
+- Fixed parking sign night texture using LOD instead of real texture in Willis.
+- Fixed transparent billboard in Schottler.
+- Fixed windows transparency on some building in The Meat Quarter.
+- Fixed E-Cola vending machine collision.
+- Fixed M_Y_Downtown_02 wrong hat texture, also improved normal and specular textures for one of the hat variations.
+- Fixed F_Y_Hooker_01 hair specular texture.
+- Added missing normal and specular textures for M_O_Peasteuro_02.
+- Fixed wrong normal and specular textures for M_Y_Drug_01.
+- Fixed M_Y_Genstreet_11 wrong specular texture.
+- Changed Mallorie clothes on Luck of the Irish cutscene, so her hand won't clip through jacket and makes visible her watches in this cutscene.
+- Fixed issue with extra not being displayed on Bernie's head on Hating the Haters mission cutscene.
+- Fixed cutscene cord transparency.
+- Fixed pissing animation speed on mission "Meltdown".
+- Fixed hotel worker scenario coordinates in South Slopes.
+- Fixed peds wall leaning scenario coordinates in Westdyke.
+- Fixed park gardering scenario in East Hook, now peds perform this scenario in Rotterdam Hill.
 
 #### Screenshots
 ![AMXzUQJ](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/abcb3563-3fd9-45d5-9e72-fcd7b924a0ff) 
-![ZmkRbuJ](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/b0f4bc1d-918f-4780-9679-3fb11aaceab3)
 ![7nB7298](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/3b982083-68b9-4a36-8733-ee8a6d03999e)
 ![NgD7Ds8](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/fc109f16-6d10-4b61-9288-c82e0b362c3f)
 ![DqIRVIU](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/97c6a91a-122f-41f0-8b6d-cb4a4f4b014a)
 ![vSnJNeK](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/a2f7775a-e8d1-45cc-a7b9-aa75487f69f9)
 ![rrSyJMw](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/2c5dd095-7605-4b58-9486-9064ab978317)
-![E44qwSc](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/ee497f66-ac49-40a2-90e1-942acb0330ad)
 ![Pq5RrZq](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/6af1d804-8ab5-4085-9f59-71a4a238615b)
+![veFNyRb](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/76767270-33c7-48aa-86ca-71500f572086)
+
 
 ---
 
@@ -141,6 +169,20 @@ Main part of the mod, which includes only fixes for things that look and work in
 ![GVuupdK](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/a848e366-ce0a-458a-81b5-16799560de2b)
 ![VL1ckgG](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/7d5fd953-7d43-4f52-bd98-8d9124d0367a)
 ![1tB6E7O](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/088151d8-f5f8-4448-ba02-14112be75892)
+
+---
+
+## Props Placement Fixes
+
+![fHXNBoR](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/8002ae5e-893b-4167-9e97-f068911432f9)
+![0MJXMH7](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/c71e7dbd-0ab2-4862-9a6c-71c897f611cc)
+![Zvj4eeW](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/1bb93198-3c0a-40bf-86a9-e59a64767a78)
+![LTsjwN1](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/72242cec-1a66-4cf2-99bb-07b457534c14)
+
+#### Screenshots
+![VvzM6OY](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/c14dbc86-1659-4669-9f76-fa3552f1520b)
+![sfX8GWB](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/a5bce19b-e734-4cae-b41f-2403843eceef)
+![PbvFLKn](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/31dec7b8-d052-4d89-8637-7b00c5d94c6f)
 
 ---
 
@@ -210,6 +252,9 @@ This section includes other people's work that has been provided for the mod.
   - Reverted subway station glass windows materials to gta_cutout, added specular maps to glass, fixed  normals and wrongly assigned materials.
   - Fixed overly reflective large residential buildings due to incorrect specular maps.
   - Adjusted pier boards texture and fixed missing pillar collision under pier.
+  - Minor fixes to Firefly Island boardwalk stalls/buildings.
+  - Fixed Firefly Island Projects shadow acne and roof normals/smoothing groups.
+  - Fixed Firefly Island boardwalk ground collision holes.
   
 - Hove Beach, area surrounding Roman's Apartment:
   - Fixed dark AO in courtyard behind Johnson's building.
@@ -228,23 +273,54 @@ This section includes other people's work that has been provided for the mod.
   - Fixed back of building located under Broker Bridge face AO being too dark.
   - Fixed Diner 69 sign not casting shadow, roof specular tiling, and specular maps improvements.
   
-- Downtown:
+- Broker:
   - Fixed UV mapping on roof of warehouse beside "Rigged to Blow" mission bomb truck location and adjusted AO intensity.
+  - Fixed Broker Hospital normals, smoothing groups, and warped UVs.
+  - Fixed dark AO in building courtyard in Broker.
+  - Fixed Broker docks car spawn road collision.
   
-- South Bohan, across player apartment:
-  - Fixed 24/7 signs and building normals.
+- Bohan:
+  - Fixed 24/7 signs and building normals, across player apartment.
+  - Fixed Bohan construction site ramp collision and one-way glass collision that would trap the player.
+ 
+- Dukes:
+  - Fixed Dukes Police Station stuccos.
+ 
+- Algonquin:
+  - Fixed Middle Park East Safehouse lampshades casting shadows.
+  - Restored St Openshaw texture and fixed dark AO on smokestack beside Algonquin Bridge.
+
+- Liberty Island:
+  - Fixed dark AO in Liberty Island park grass.
   
 - Props:
   - Improved drinking fountain to better fit reference photo, added specular and normal maps.
+  - Restored shadows to misc objects such as wires, grates, fences, etc.
+  - Restored wire material to most wires (WIP).
 
 ### Fixes and improvements [_CP_](https://gtaforums.com/profile/257839-_cp_/)
 - Fixed broken beach LOD texture in Firefly Island.
 - Fixed double fence model in Firefly Island.
 - Fixed flickering graffiti in Middle Park toilet mirror.
 - Added lights to Schottler tunnel.
+- Fixed missing shadows on pedestrian bridge in Algonquin.
+- Fixed missing night texture of "Betta" building.
+- Fixed intense windows reflections on building LOD in Firefly Projects.
+- Fixed missing railtrack reflections near McReary's house.
 
-Fixes by [TheYoshiPunch](https://gtaforums.com/profile/1145901-theyoshipunch/)
+### Fixes by [TheYoshiPunch](https://gtaforums.com/profile/1145901-theyoshipunch/)
 - Fixed M_Y_Gangel_01 hair texture.
+
+### Fixes by [brokensymmetry](https://gtaforums.com/profile/1187609-brokensymmetry/)
+- Fixed stretched fence on Algonquin pedestrian bridge.
+- Changed tollbooth glass to match console one.
+- Added missing part of the barge on map close to airport.
+- Removed dynamic flag from fence in Port Tudor that will fall after slight contact.
+- TLAD
+  - Fixed semi-automatic pistol incorrect rotation when shooting from car.
+
+### Fixes by [Olanov](https://gtaforums.com/profile/922375-olanov/)
+- Added variety to cops that arresing Billy on This Sh*t's Cursed mission.
 
 #### Screenshots
 ![I1OuKge](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/b0a84ddd-4879-4ac7-ab50-91a1f2f5b8e9)
@@ -276,6 +352,11 @@ Fixes by [TheYoshiPunch](https://gtaforums.com/profile/1145901-theyoshipunch/)
 ![06](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/6aec00d7-0fe4-4afd-9f22-33a5fcf21487)
 ![LXJtrZe](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/43fc950a-3b4e-463e-aca0-492ec1cae677)
 ![O1xZs8B](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/7235ed50-83a4-40bc-aa86-a363f7267984)
+![ymbBwJ2](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/219c81d3-e503-4a5b-b2ce-33aea6ba4857)
+![MVr5kzd](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/4420e7b8-e0cf-48d5-ae0f-af00c7e6578a)
+![hUhVLk3](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/d54ec98f-168b-438a-b7f2-a9a130fe6293)
+![oK9iyd3](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/86ec200b-914e-4e73-8492-d33658312e9e)
+![F1Ajs9h](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/83e3823b-26da-4f08-87e8-961d7dc9b30f)
 
 ---
 
@@ -292,10 +373,17 @@ Some beta content makes sense to be restored rather than replaced, not going to 
   - Windows from interior correspond the ones from exterior.
   - Fixes double entry door.
   - Corresponds all in-game photos of this place.
+- Restored beta roof texture at Brucie's garage, as well as the roofs of several buildings near this garage.
+- Restored missing ads on the Algonquin - Dukes expressway near the bus depot.
+- Restored ad close to police station in Hove Beach.
+- Restored unused "Ammu Nation" shop sign in front of the Maisonette 9 nightclub.
+- Added transparency to carwash roof windows in Purgatory.
+- Restored some missing billboards in East Island City.
 
 #### Screenshots
 ![ZMYiMuZ](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/c07a62b7-8c2e-4264-8220-f5dc2732210b)
 ![HZSKDJt](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/1b735f43-2eb3-4b48-96ec-2124886a142e)
+![E44qwSc](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/80e2a09e-badf-45b6-921f-2b1fa5d315f0)
 
 ---
 
@@ -309,6 +397,8 @@ Some of this content already included in main part of the mod, but here is only 
 - Changed grid texture on golf course in Algonquin.
 - Added transparency to the blinds in ULP office.
 - Light corona texture were taken from console, because it is not compressed unlike the PC one.
+- Added transparency to titles during intro cutscene.
+- Restored laundromat shop sign in East Island City.
 
 #### Screenshots
 ![Ih7oJo7](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/de36fa51-4224-42b1-963c-aa9cc789e89d)
@@ -322,22 +412,31 @@ Some of this content already included in main part of the mod, but here is only 
 All sorts of texture improvements and other things will be in this section.
 
 - Improved billboards quality in Bohan.
-- Changed grass height, because on consoles grass was different, the new one turned out to be under textures.
-- Changed some warehouse textures in Beechwood City to more quality ones.
+- Improved some warehouse textures in Beechwood City.
 - Improved quality of Radio Broker billboard in Hove Beach.
-- Changed some textures on Algonquin gas station to more quality ones.
-- Changed some lamppost textures to more quality ones.
-- Changed specular textures for some industrial props to more quality ones.
-- Changed M_M_Sweeper jacket texture to more quality one.
+- Improved some textures on Algonquin gas station.
+- Improved some lamppost textures.
+- Improved specular textures for some industrial props.
+- Improved M_M_Sweeper jacket texture.
+- Improved suit texture for F_M_Pbusiness.
+- Improved some textures for F_Y_Nurse.
 - Changed chair (gb_diningchr02) textures to ones that cutscene model uses.
-- Changed textures of some planes to more quality ones.
+- Improved textures of some planes in airport.
 - Removed mouse cursor from Playboy X photo.
 - Changed light bulb model with much better one.
+- Improved ads textures in Downtown Broker and Rotterdam Hill.
+- Improved some textures on Hove Beach subway station, also added normal maps to station roof.
+- Improved roof textures in BOABO.
+- Improved ads textures in Star Junction.
+- Improved some ads textures in Beechwood City.
+- Improved posters and graffiti textures in Bohan near the hospital.
+- Improved textures for various models from manhatxr.img (treeholes, rooftops, balconies).
+- (Optional) Changed grass height, because on consoles grass was different, the new one turned out to be hidden under the map.
 
 #### Screenshots
-![3PBmndL](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/296c3074-1431-4ab3-91d3-63bd85138fbd)
+![6pjSLZO](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/c1dfd1ad-5719-46aa-9a5b-a6596f1945a2)
 ![RGYcY9K](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/dd66bcb6-3e1a-449f-bb49-979845c990f2)
-![l2WfXrG](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/c22e21e8-8b71-4910-8314-b888bb622199)
+![vsgkZ8D](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/4062aa5e-4564-4685-bda9-9ea148182cc6)
 
 ---
 
@@ -354,6 +453,8 @@ Episodic content only.
 - Fixed bug which replaced bushes with trees in Bohan.
 - Changed beta Jim and Jason photos to the final.
 - Fixed IG_Pgirl_01 hair texture, also better textures were taken from console.
+- Changed weapons on Shifting Weight mission cutscene: female with pistol was replaced with micro uzi, to match the sound of shot from it, sweeper was replaced with pistol, so it won't clip with wall when Johnny runs to bikes.
+
  
 ### TBoGT
 - Fixed cutscene golden uzi texture.
@@ -365,14 +466,18 @@ Episodic content only.
 - Better textures were taken from console for F_Y_Pgirl_01.
 - Fixed Al Di Napoli hairstyle.
 - Restored Jeremy St. Ives in few more frames in Blog This cutscene.
+- Fixed incorrect wheels on Turismo during intro cutscene.
+- Improved textures for some TBoGT exclusive ads in Star Junction.
 
 #### Screenshots
 ![YT5LfaX](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/a42eabd8-60e3-4b76-b59e-1fda8a40efcc)
 ![sBTlfTg](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/7ab08128-9c69-4d23-925b-bbf7b18ee9bd)
 ![9yvTKL7](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/2badebde-4bfc-4503-853b-ec6bfa48d85a)
-![S4FVseS](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/0a62cfbe-1db1-4f6a-89f0-0d6b9c8c1832)
+![9DFlq2j](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/74ab1b80-48ba-428d-b930-9a43c5440ae8)
+![S4FVseS](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/5b737466-24a4-4cdc-88d0-49b0792e1f92)
 ![HfwjKnb](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/d1eb9807-b749-43d2-a650-302219e47a20)
 ![JZlLpsm](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/a6a8be2e-5aeb-4c46-907d-96bdfbd79db5)
+![aNXveV9](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/f5b0ee21-d2b4-4b09-92ea-e1cdda8502bf)
 
 ---
 

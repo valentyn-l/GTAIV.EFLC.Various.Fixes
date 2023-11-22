@@ -1,2 +1,0 @@
-Stipple from this mod removes grainy from fences and trees, but if you using Shader Fixes Collection mod, then it broke LOD fading fix from there.
-I leaved a backup texture here, in case if you want to experiment with this stuff, and decide which fix you need more.
