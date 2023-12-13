@@ -118,3 +118,50 @@ Consolidated fixes:
 -Fixed Broker docks car spawn road collision
 -Fixed Bohan construction site ramp collision and one-way glass collision that would trap the player
 -Fixed Firefly Island boardwalk ground collision holes
+
+12/13/2023
+
+Broker:
+-Fixed more broken LOD mesh normals and vertex shading
+-Fixed Hove Beach area floor grates not casting shadows
+-Fixed dirt UV direction, normals, and vertex shading in alleyway behind Hove Beach safehouse
+-Reworked Firefly island boardwalk railings, collisions, and other minor bugs
+-Fixed Derriere store UVs and night emissive misalignment
+-Fixed Broker Hospital's hole in reception glass roof, other minor fixes
+-Fixed DE store UVs in flat-iron-like building and night emissive misalignment
+-Enabled grating shadows on Brucie's Garage
+-Fixed misc road smoothing groups
+-Reworked and polished Firefly Island Amphitheater 
+-Fixed Rotterdam Hill sidewalk UVs 
+-Fixed construction site broken normals and UVs
+-Fixed abandoned railway wall UV direction and dark vertex shading
+-Fixed broken normals on blue docks building
+-Fixed Shoe World store normals
+-Fixed Spaghetti House awning mesh and UV tiling, and corrected smoothing groups
+-Reworked arch roundabout bird columns
+
+
+Dukes:
+-Fixed Steinway graveyard broken normals on graves
+
+
+Algonquin:
+-Fixed Castle Gardens Hospital window mesh not casting shadows
+-Fixed high-rise builidng normals
+-Fixed some Middle Park broken normals
+-Fixed Natural Museum broken normals, smoothing groups, and UV tiling
+-Fixed overpass to Alderney smoothing groups and invisible backfacing highway barried
+-Fixed seafloor tiling and missing seafloor on Northwestern side
+-Fixed orientation of bus stop near Middle Park safehouse (for TBoGT and TLAD as well)
+
+
+TBoGT:
+-Replaced Castle Gardens Hospital low res textures with PC textures
+
+Props:
+-Restored empty billboards with dirty/torn texture
+-Enabled shadows on freeway fence grating
+-Fixed freeway walls broken normals
+-Fixed broken normals on garage doors
+-Enabled shadows of chains on the sea fence
+-Fixed jetty wood broken normals
