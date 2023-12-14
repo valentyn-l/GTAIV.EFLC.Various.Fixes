@@ -950,6 +950,8 @@ E2INTAU
 10 1 1 2 0
 10 2 0 1 0
 10 7 1 0 0
+19 1 1 2 0
+19 2 0 2 0
 [/VARIATION]
 [PROPS]
 13 0 0
@@ -957,6 +959,7 @@ E2INTAU
 15 0 1
 10 1 1
 21 0 1
+19 0 1
 [/PROPS]
 [SECTION_START]
 
@@ -2425,7 +2428,7 @@ camera_2
 
 
 
-  D]
+  ]
 
 
 
@@ -2541,7 +2544,7 @@ camera_1
 1 CS_Tony CS_Tony_2 cs_tony_head_2 0
 
 2 CS_Vince CS_Vince_2 cs_vince_head_2 0
-
+v
 3 CS_Rocco CS_Rocco_2 cs_rocco_  ad_2 0
 
 4 csPistol c

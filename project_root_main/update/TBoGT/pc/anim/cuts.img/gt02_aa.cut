@@ -1,0 +1,1052 @@
+[CUTSCENE_HEADER]
+
+143	465
+
+[/CUTSCENE_HEADER]
+[DRAW_DISTANCE]
+0 0 30.00000 0.05000
+3725 1 800.00000 0.05000
+5026 2 70.00000 0.05000
+10733 3 50.00000 0.05000
+15533 4 30.00000 0.05000
+18647 5 30.00000 0.05000
+21426 6 30.00000 0.05000
+24679 7 30.00000 0.05000
+27789 8 30.00000 0.05000
+29303 9 30.00000 0.05000
+33298 10 30.00000 0.05000
+35900 11 20.00000 0.05000
+42913 12 20.00000 0.05000
+44705 13 20.00000 0.05000
+48380 14 15.00000 0.05000
+50268 15 20.00000 0.05000
+51692 16 20.00000 0.05000
+53062 17 20.00000 0.05000
+54524 18 20.00000 0.05000
+58204 19 30.00000 0.05000
+60801 20 30.00000 0.05000
+64470 21 30.00000 0.05000
+68006 22 30.00000 0.05000
+69046 23 30.00000 0.05000
+72833 24 30.00000 0.05000
+75409 25 30.00000 0.05000
+76939 26 30.00000 0.05000
+81969 27 30.00000 0.05000
+84481 28 30.00000 0.05000
+86006 29 30.00000 0.05000
+90646 30 30.00000 0.05000
+92454 31 30.00000 0.05000
+96790 32 30.00000 0.05000
+100662 33 30.00000 0.05000
+102534 34 30.00000 0.05000
+104203 35 30.00000 0.05000
+[/DRAW_DISTANCE]
+
+
+
+[FLAGS]
+FLAG_USE_ONE_AUDIO
+FLAG_MUTE_MUSIC_PLAYER
+[/FLAGS]
+
+
+[BLOCKING_BOUNDS]
+7.470000 12.328938 -7.470000 7.470000 27.268938 -7.470000 -7.470000 12.328938 -7.470000 -7.470000 27.268938 -7.470000 14.940000
+[/BLOCKING_BOUNDS]
+
+[CAMCORDER]
+
+[/CAMCORDER]
+
+[MISSION_TEXT_NAME]
+E2T2AUD
+[/MISSION_TEXT_NAME]
+
+[TEXT]
+2998    661    GT2AAP1_1
+3702    1301    GT2AAP1_2
+5089    533    GT2AAP1_3
+[/TEXT]
+
+[VARIATION]
+[/VARIATION]
+
+[PROPS]
+[/PROPS]
+
+[SECTION_START]
+
+
+[MODELS]
+
+
+0 CS_Dessie CS_Dessie_0 cs_dessie_head_0
+
+1 player player_0 player_head_0
+
+2 csMaisDoorFrnt csMaisDoorFrnt_0
+
+[/MODELS]
+
+[COMPRESSION]
+
+1 A
+[/COMPRESSION]
+
+[LIGHTS]
+
+
+env_ColourLight1_0
+ColourLight2_0
+[/LIGHTS]
+
+[EFFECTS]
+[/EFFECTS]
+
+[VEHICLE_DETAILS]
+
+[/VEHICLE_DETAILS]
+
+[VEHICLE_REMOVAL]
+
+[/VEHICLE_REMOVAL]
+
+[ORIENT]
+
+0.000000
+
+[/ORIENT]
+
+
+
+[TIME]
+[/TIME]
+
+[OFFSET]
+-467.739990 134.979996 8.860000
+
+[/OFFSET]
+
+[DURATION]
+10733.333984
+
+[/DURATION]
+
+[AUDIO]
+GT02_AA
+[/AUDIO]
+
+[ANIM]
+GT2AAP1_0
+
+[/ANIM]
+
+[ANIMRANGE]
+range on 143.000000 465.000000
+
+[/ANIMRANGE]
+
+[CAMERA]
+camera_0
+
+
+[/CAMERA]
+
+[REMOVE]
+-468.10 152.60 10.10 E2_Maisondoor18
+-465.74 141.59 52.56 MH3_Superlod_03 
+-476.84 155.66 18.19 LODMP_Warehse02_MH3
+-467.81 153.36 11.69 E2_CutS_02 30
+[/REMOVE]
+
+[SECTION_END]
+
+
+[CUTSCENE_HEADER]
+
+165	958
+
+[/CUTSCENE_HEADER]
+
+
+
+[FLAGS]
+[/FLAGS]
+
+
+[BLOCKING_BOUNDS]
+15.259999 -11.901432 -15.259999 15.259999 18.618567 -15.259999 -15.259999 -11.901432 -15.259999 -15.259999 18.618567 -15.259999 30.520000
+[/BLOCKING_BOUNDS]
+
+[CAMCORDER]
+
+[/CAMCORDER]
+
+[TEXT]
+[/TEXT]
+
+[VARIATION]
+2 0 0 1 0
+2 1 0 2 0
+2 2 0 1 0
+2 3 0 1 0
+3 0 0 0 0
+3 1 1 2 0
+3 2 0 0 0
+3 7 2 0 0
+6 0 0 0 0
+6 1 1 0 0
+6 2 1 0 0
+6 5 1 0 0
+6 9 0 0 0
+6 4 0 0 0
+11 0 0 1 0
+11 1 1 0 0
+11 2 0 1 0
+11 7 0 1 0
+11 4 0 0 0
+12 0 0 1 0
+12 1 1 2 0
+12 2 0 2 0
+12 7 1 1 0
+9 0 1 1 0
+9 1 1 1 0
+9 2 0 1 0
+9 5 1 0 0
+8 1 0 2 0
+8 2 0 2 0
+10 0 0 3 0
+10 1 1 1 0
+10 2 0 1 0
+10 5 0 0 0
+10 4 1 1 0
+[/VARIATION]
+
+[PROPS]
+9 0 0
+[/PROPS]
+
+[SECTION_START]
+
+
+[MODELS]
+
+
+0 csChampFlute csChampFlute-1_0
+
+1 csChampFlute csChampFlute_0
+
+2 F_Y_HotChick_01 F_Y_HotChick_01-1_0 F_Y_HotChick_01-1_head_0 0
+
+3 F_Y_HotChick_01 F_Y_HotChick_01_0 F_Y_HotChick_01_head_0 0
+
+4 player player_0 player_head_0 0
+
+5 CS_Roman2 CS_Roman2_0 cs_roman2_head_0 0
+
+6 CS_Brucie2 CS_Brucie2_0 cs_brucie2_head_0 0
+
+7 F_Y_Hostess F_Y_Hostess_0
+
+8 M_Y_ClubBlack_01 M_Y_ClubBlack_01_0
+
+9 M_Y_ClubEuro_02 M_Y_ClubEuro_02_0
+
+10 M_Y_ClubEuro_03 M_Y_ClubEuro_03_0
+
+11 M_Y_ClubWhite_01 M_Y_ClubWhite_01_0
+
+12 F_Y_HotChick_03 F_Y_HotChick_03_0
+
+[/MODELS]
+
+[COMPRESSION]
+
+0 A
+1 A
+4 A
+7 A
+8 A
+9 A
+10 A
+11 A
+12 A
+[/COMPRESSION]
+
+
+[LIGHTS]
+
+
+ColorLight2_0
+UpLight_0
+BarLight1_0
+ColorLight3_0
+
+[/LIGHTS]
+
+[EFFECTS]
+[/EFFECTS]
+
+[VEHICLE_DETAILS]
+
+[/VEHICLE_DETAILS]
+
+[VEHICLE_REMOVAL]
+
+[/VEHICLE_REMOVAL]
+
+[ORIENT]
+
+0.000000
+
+[/ORIENT]
+
+
+
+[TIME]
+[/TIME]
+
+[OFFSET]
+-479.626007 151.082001 6.823000
+
+[/OFFSET]
+
+[DURATION]
+26433.332031
+
+[/DURATION]
+
+[AUDIO]
+GT02_AA
+[/AUDIO]
+
+[ANIM]
+GT2AAP2_0
+
+[/ANIM]
+
+[ANIMRANGE]
+range on 165.000000 958.000000
+
+[/ANIMRANGE]
+
+[CAMERA]
+camera_0
+
+
+[/CAMERA]
+
+[REMOVE]
+[/REMOVE]
+
+[SECTION_END]
+
+
+[CUTSCENE_HEADER]
+
+222	1330
+
+[/CUTSCENE_HEADER]
+
+
+
+[FLAGS]
+[/FLAGS]
+
+
+[BLOCKING_BOUNDS]
+15.389999 -13.152369 -15.389999 15.389999 17.627630 -15.389999 -15.389999 -13.152369 -15.389999 -15.389999 17.627630 -15.389999 30.780001
+[/BLOCKING_BOUNDS]
+
+[CAMCORDER]
+
+[/CAMCORDER]
+
+[MISSION_TEXT_NAME]
+E2T2AUD
+[/MISSION_TEXT_NAME]
+
+[TEXT]
+23    6741    GT2AAP3_1
+6850    2218    GT2AAP3_2
+8984    2986    GT2AAP3_3
+11970    3754    GT2AAP3_4
+18114    2901    GT2AAP3_5
+21186    1365    GT2AAP3_6
+23490    1194    GT2AAP3_7
+24856    832    GT2AAP3_8
+25752    2176    GT2AAP3_9
+28098    1301    GT2AAP3_10
+30082    3050    GT2AAP3_11
+[/TEXT]
+
+[VARIATION]
+[/VARIATION]
+
+[PROPS]
+0 0 1
+[/PROPS]
+
+[SECTION_START]
+
+
+[MODELS]
+
+
+0 CS_Tony CS_Tony_0 cs_tony_head_0
+
+1 player player_0 player_head_0
+
+2 csMaisDoorOff csMaisDoorOff_0
+
+3 csChairPegoA csChairPegoA_0
+
+4 csTonyOffPhone csTonyOffPhone_0
+
+5 cs_e2cord cs_e2cord-3_0
+
+6 cs_e2cord cs_e2cord-2_0
+
+[/MODELS]
+
+[COMPRESSION]
+
+1 A
+[/COMPRESSION]
+
+[LIGHTS]
+
+
+DownLight_0
+DeskLight_0
+DeskRim1_0
+
+[/LIGHTS]
+
+[EFFECTS]
+[/EFFECTS]
+
+[VEHICLE_DETAILS]
+
+[/VEHICLE_DETAILS]
+
+[VEHICLE_REMOVAL]
+
+[/VEHICLE_REMOVAL]
+
+[ORIENT]
+
+0.000000
+
+[/ORIENT]
+
+
+
+[TIME]
+[/TIME]
+
+[OFFSET]
+-479.630005 151.080002 6.820000
+
+[/OFFSET]
+
+[DURATION]
+36933.332031
+
+[/DURATION]
+
+[AUDIO]
+GT02_AA
+[/AUDIO]
+
+[ANIM]
+GT2AAP3_0
+
+[/ANIM]
+
+[ANIMRANGE]
+range on 222.000000 1330.000000
+
+[/ANIMRANGE]
+
+[CAMERA]
+camera_0
+
+
+[/CAMERA]
+
+[REMOVE]
+-486.6 163.2 7.9 E2_Maisondoor34
+[/REMOVE]
+
+[SECTION_END]
+
+
+[CUTSCENE_HEADER]
+
+243	592	961	1364
+
+[/CUTSCENE_HEADER]
+
+
+
+[FLAGS]
+[/FLAGS]
+
+
+[BLOCKING_BOUNDS]
+14.990000 -12.800788 -14.990000 14.990000 17.179211 -14.990000 -14.990000 -12.800788 -14.990000 -14.990000 17.179211 -14.990000 29.980000
+[/BLOCKING_BOUNDS]
+
+[CAMCORDER]
+
+[/CAMCORDER]
+
+[MISSION_TEXT_NAME]
+E2T2AUD
+[/MISSION_TEXT_NAME]
+
+[TEXT]
+3569    2389    GT2AAP4_1
+6108    2901    GT2AAP4_2
+9308    2368    GT2AAP4_3
+11804    832    GT2AAP4_4
+13596    2133    GT2AAP4_5
+15750    1749    GT2AAP4_6
+17500    2410    GT2AAP4_7
+19910    2240    GT2AAP4_8
+22470    5290    GT2AAP4_9
+28209    1344    GT2AAP4_10
+29553    5162    GT2AAP4_11
+[/TEXT]
+
+[VARIATION]
+
+4 0 0 1 0
+4 1 0 1 0
+4 2 0 0 0
+4 3 0 0 0
+4 7 1 0 0
+5 0 0 1 0
+5 1 0 2 0
+5 2 0 0 0
+5 5 0 0 0
+5 3 0 0 0
+5 7 0 1 0
+0 0 0 0 0
+0 1 1 0 0
+0 2 1 0 0
+0 5 1 0 0
+0 9 0 0 0
+0 4 0 0 0
+14 0 0 1 0
+14 1 1 0 0
+14 2 0 1 0
+14 7 0 1 0
+14 4 0 0 0
+15 0 0 1 0
+15 1 1 2 0
+15 2 0 2 0
+15 7 1 1 0
+10 0 1 1 0
+10 1 1 1 0
+10 2 0 1 0
+10 5 1 0 0
+8 1 0 2 0
+8 2 0 2 0
+9 0 0 3 0
+9 1 1 1 0
+9 2 0 1 0
+9 5 0 0 0
+9 4 1 1 0
+[/VARIATION]
+
+[PROPS]
+10 0 0
+1 0 1
+8 0 2
+[/PROPS]
+
+[SECTION_START]
+
+
+[MODELS]
+
+
+0 CS_Yusef CS_Yusef_0 cs_yusef_head_0
+
+1 CS_Tony CS_Tony_0 cs_tony_head_0 0
+
+2 player player_0 Player_head_0 0
+
+3 M_Y_ClubWhite_01 M_Y_ClubWhite_01_0
+
+4 F_Y_HotChick_01 F_Y_HotChick_01_0 F_Y_HotChick_01_head_0
+
+5 F_Y_HotChick_02 F_Y_HotChick_02_0 F_Y_HotChick_02_head_0
+
+6 M_Y_Barmaison M_Y_Barmaison_0
+
+7 F_Y_HotChick_03 F_Y_HotChick_03_0
+
+8 M_Y_ClubBlack_01 M_Y_ClubBlack_01_0
+
+9 M_Y_ClubEuro_03 M_Y_ClubEuro_03_0
+
+10 M_Y_ClubEuro_02 M_Y_ClubEuro_02_0
+
+11 F_Y_PGirl_02 F_Y_PGirl_02_0
+
+12 F_Y_Socialite F_Y_Socialite_0
+
+13 F_Y_Hostess F_Y_Hostess_0
+
+14 M_Y_ClubWhite_01 M_Y_ClubWhite_01-1_0
+
+15 F_Y_HotChick_03 F_Y_HotChick_03-1_0
+
+[/MODELS]
+
+[COMPRESSION]
+
+2 A
+3 A
+4 A
+5 A
+6 A
+7 A
+8 A
+9 A
+10 A
+11 A
+12 A
+13 A
+14 A
+15 A
+[/COMPRESSION]
+
+
+[LIGHTS]
+
+
+BarLight1_0
+BarLight2_0
+ColorLight1_0
+RimLight1_0
+[/LIGHTS]
+
+[EFFECTS]
+[/EFFECTS]
+
+[VEHICLE_DETAILS]
+
+[/VEHICLE_DETAILS]
+
+[VEHICLE_REMOVAL]
+
+[/VEHICLE_REMOVAL]
+
+[ORIENT]
+
+0.000000
+
+[/ORIENT]
+
+
+
+[TIME]
+[/TIME]
+
+[OFFSET]
+-479.630005 151.080002 6.820000
+
+[/OFFSET]
+
+[DURATION]
+11633.333008
+
+[/DURATION]
+
+[AUDIO]
+GT02_AA
+[/AUDIO]
+
+[ANIM]
+GT2AAP4_0
+
+[/ANIM]
+
+[ANIMRANGE]
+range on 243.000000 1364.000000
+
+[/ANIMRANGE]
+
+[CAMERA]
+camera_0
+
+
+[/CAMERA]
+
+[REMOVE]
+[/REMOVE]
+
+[SECTION_END]
+
+
+[SECTION_START]
+
+
+[MODELS]
+
+
+0 CS_Yusef CS_Yusef_1 cs_yusef_head_1
+
+1 CS_Tony CS_Tony_1 cs_tony_head_1 0
+
+2 player player_1 Player_head_1 0
+
+3 M_Y_ClubWhite_01 M_Y_ClubWhite_01_1
+
+4 F_Y_HotChick_01 F_Y_HotChick_01_1 F_Y_HotChick_01_head_1
+
+5 F_Y_HotChick_02 F_Y_HotChick_02_1 f_y_hotchick_02_head_1
+
+6 M_Y_Barmaison M_Y_Barmaison_1
+
+7 F_Y_HotChick_03 F_Y_HotChick_03_1
+
+8 M_Y_ClubBlack_01 M_Y_ClubBlack_01_1 
+
+9 M_Y_ClubEuro_03 M_Y_ClubEuro_03_1
+
+10 M_Y_ClubEuro_02 M_Y_ClubEuro_02_1
+
+11 F_Y_PGirl_02 F_Y_PGirl_02_1
+
+12 F_Y_Socialite F_Y_Socialite_1
+
+13 F_Y_Hostess F_Y_Hostess_1
+
+14 M_Y_ClubWhite_01 M_Y_ClubWhite_01-1_1
+
+15 F_Y_HotChick_03 F_Y_HotChick_03-1_1
+
+[/MODELS]
+
+[COMPRESSION]
+
+2 A
+3 A
+4 A
+5 A
+6 A
+7 A
+8 A
+9 A
+10 A
+11 A
+12 A
+13 A
+14 A
+15 A
+[/COMPRESSION]
+
+[LIGHTS]
+
+
+BarLight1_1
+BarLight2_1
+ColorLight1_1
+RimLight1_1
+[/LIGHTS]
+
+[EFFECTS]
+[/EFFECTS]
+
+[VEHICLE_DETAILS]
+
+[/VEHICLE_DETAILS]
+
+[VEHICLE_REMOVAL]
+
+[/VEHICLE_REMOVAL]
+
+[ORIENT]
+
+0.000000
+
+[/ORIENT]
+
+
+
+[TIME]
+[/TIME]
+
+[OFFSET]
+-479.630005 151.080002 6.820000
+
+[/OFFSET]
+
+[DURATION]
+12266.666016
+
+[/DURATION]
+
+[AUDIO]
+GT2AAP4
+[/AUDIO]
+
+[ANIM]
+GT2AAP4_1
+
+[/ANIM]
+
+[ANIMRANGE]
+range on 243.000000 1364.000000
+
+[/ANIMRANGE]
+
+[CAMERA]
+camera_1
+
+
+[/CAMERA]
+
+[REMOVE]
+[/REMOVE]
+
+[SECTION_END]
+
+
+
+[SECTION_START]
+
+
+[MODELS]
+
+
+0 CS_Yusef CS_Yusef_2 cs_yusef_head_2
+
+1 CS_Tony CS_Tony_2 cs_tony_head_2 0
+
+2 player player_2 Player_head_2 0
+
+3 M_Y_ClubWhite_01 M_Y_ClubWhite_01_2
+
+4 F_Y_HotChick_01 F_Y_HotChick_01_2 f_y_hotchick_01_head_2
+
+5 F_Y_HotChick_02 F_Y_HotChick_02_2 f_y_hotchick_02_head_2
+
+6 M_Y_Barmaison M_Y_Barmaison_2
+
+7 F_Y_HotChick_03 F_Y_HotChick_03_2
+
+8 M_Y_ClubBlack_01 M_Y_ClubBlack_01_2
+
+9 M_Y_ClubEuro_03 M_Y_ClubEuro_03_2
+
+10 M_Y_ClubEuro_02 M_Y_ClubEuro_02_2
+
+11 F_Y_PGirl_02 F_Y_PGirl_02_2
+
+12 F_Y_Socialite F_Y_Socialite_2
+
+13 F_Y_Hostess F_Y_Hostess_2
+
+14 M_Y_ClubWhite_01 M_Y_ClubWhite_01-1_2
+
+15 F_Y_HotChick_03 F_Y_HotChick_03-1_2
+
+[/MODELS]
+
+[COMPRESSION]
+
+2 A
+3 A
+4 A
+5 A
+6 A
+7 A
+8 A
+9 A
+10 A
+11 A
+12 A
+13 A
+14 A
+15 A
+[/COMPRESSION]
+
+[LIGHTS]
+
+
+BarLight1_2
+BarLight2_2
+ColorLight1_2
+RimLight1_2
+[/LIGHTS]
+
+[EFFECTS]
+[/EFFECTS]
+
+[VEHICLE_DETAILS]
+
+[/VEHICLE_DETAILS]
+
+[VEHICLE_REMOVAL]
+
+[/VEHICLE_REMOVAL]
+
+[ORIENT]
+
+0.000000
+
+[/ORIENT]
+
+
+
+[TIME]
+[/TIME]
+
+[OFFSET]
+-479.630005 151.080002 6.820000
+
+[/OFFSET]
+
+[DURATION]
+13400.001953
+
+[/DURATION]
+
+[AUDIO]
+GT2AAP4
+[/AUDIO]
+
+[ANIM]
+GT2AAP4_2
+
+[/ANIM]
+
+[ANIMRANGE]
+range on 243.000000 1364.000000
+
+[/ANIMRANGE]
+
+[CAMERA]
+camera_2
+
+
+[/CAMERA]
+
+[REMOVE]
+[/REMOVE]
+
+[SECTION_END]
+
+
+
+
+
+
+  
+2 A
+3 A
+4 A
+5 A
+6 A
+7 A
+8 A
+9 A
+10 A
+11 A
+12 A
+13 A
+14 A
+15 A
+[/COMPRESSION]
+
+[LIGHTS]
+
+
+BarLight1_1
+BarLight2_1
+ColorLight1_1
+RimLight1_1
+[/LIGHTS]
+
+[EFFECTS]
+[/EFFECTS]
+
+[VEHICLE_DETAILS]
+
+[/VEHICLE_DETAILS]
+
+[VEHICLE_REMOVAL]
+
+[/VEHICLE_REMOVAL]
+
+[ORIENT]
+
+0.000000
+
+[/ORIENT]
+
+
+
+[TIME]
+[/TIME]
+
+[OFFSET]
+-479.630005 151.080002 6.820000
+
+[/OFFSET]
+
+[DURATION]
+12266.666016
+
+[/DURATION]
+
+[AUDIO]
+GT2AAP4
+[/AUDIO]
+
+[ANIM]
+GT2AAP4_1
+
+[/ANIM]
+
+[ANIMRANGE]
+range on 243.000000 1364.000000
+
+[/ANIMRANGE]
+
+[CAMERA]
+camera_1
+
+
+[/CAMERA]
+
+[REMOVE]
+[/REMOVE]
+
+[SECTION_END]
+
+
+
+[SECTION_START]
+
+
+[MODELS]
+
+
+0 CS_Yusef CS_Yusef_2 cs_yusef_head_2
+
+1 CS_Tony CS_Tony_2 cs_tony_head_2 0
+
+2 player player_2 Player_head_2 0
+
+3 M_Y_ClubWhite_01 M_Y_ClubWhite_01_2
+
+4 F_Y_HotChick_01 F_Y_HotChick_01_2 f_y_hotchick_01_head_2
+
+  F_Y_HotChick_02 F_Y_HotChic
