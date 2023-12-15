@@ -140,20 +140,17 @@ Broker:
 -Fixed Spaghetti House awning mesh and UV tiling, and corrected smoothing groups
 -Reworked arch roundabout bird columns
 
-
 Dukes:
 -Fixed Steinway graveyard broken normals on graves
 
-
 Algonquin:
 -Fixed Castle Gardens Hospital window mesh not casting shadows
--Fixed high-rise builidng normals
+-Fixed high-rise building normals
 -Fixed some Middle Park broken normals
 -Fixed Natural Museum broken normals, smoothing groups, and UV tiling
 -Fixed overpass to Alderney smoothing groups and invisible backfacing highway barried
 -Fixed seafloor tiling and missing seafloor on Northwestern side
 -Fixed orientation of bus stop near Middle Park safehouse (for TBoGT and TLAD as well)
-
 
 TBoGT:
 -Replaced Castle Gardens Hospital low res textures with PC textures
@@ -164,4 +161,17 @@ Props:
 -Fixed freeway walls broken normals
 -Fixed broken normals on garage doors
 -Enabled shadows of chains on the sea fence
--Fixed jetty wood broken normals
+-Fixed jetty wood broken normals 
+
+12/15/2023
+
+Dukes:
+-Reworked Stout Blarneys bar courtyard, fixed normals, re-adjusted UVs, corrected materials, reworked buntings
+
+Hove Beach:
+-Fixed construction site crane normals, floating geometry, UVs, and reduced metal reflection intensity
+-Added reflections to construction site metal ramp to match crane metal material
+
+Broker:
+-Fixed "Turning You On" awning transparent underside and surround buildings' UVs, normals, broken geometry, and adjusted collisions
+-Fixed floating dirt that surrounds Broker Hospital
