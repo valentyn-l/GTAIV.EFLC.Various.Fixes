@@ -142,8 +142,8 @@ Main part of the mod, which includes only fixes for things that look and work in
 - Fixed park gardering scenario in East Hook, now peds perform this scenario in Rotterdam Hill.
 - Added missing normal and specular textures for M_Y_Tough_05 jacket.
 - Fixed issue with rail not casting shadows in Northwood.
-
-
+- Fixed broken waiting room sign at the ferry terminal in Alderney.
+- Fixed balcony mesh not casting shadows in Rotterdam Hill.
 
 #### Screenshots
 ![AMXzUQJ](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/abcb3563-3fd9-45d5-9e72-fcd7b924a0ff) 
@@ -286,6 +286,8 @@ Hove Beach:
   - Fixed Spaghetti House awning mesh and UV tiling, and corrected smoothing groups.
   - Fixed construction site broken normals and UVs.
   - Fixed broken normals on blue docks building.
+  - Fixed construction site crane normals, floating geometry, UVs, and reduced metal reflection intensity.
+  - Added reflections to construction site metal ramp to match crane metal material.
 
 Broker:
   - Fixed UV mapping on roof of warehouse beside "Rigged to Blow" mission bomb truck location and adjusted AO intensity.
@@ -300,7 +302,9 @@ Broker:
   - Fixed abandoned railway wall UV direction and dark vertex shading.
   - Fixed Derriere store UVs and night emissive misalignment.
   - Fixed DE store UVs in flat-iron-like building and night emissive misalignment.
-
+  - Fixed "Turning You On" awning transparent underside and surround buildings' UVs, normals, broken geometry, and adjusted collisions.
+  - Fixed floating dirt that surrounds Broker Hospital.
+  
 Bohan:
   - Fixed 24/7 signs and building normals, across player apartment.
   - Fixed Bohan construction site ramp collision and one-way glass collision that would trap the player.
@@ -308,6 +312,7 @@ Bohan:
 Dukes:
   - Fixed Dukes Police Station flickering stuccos.
   - Fixed Steinway graveyard broken normals on graves.
+  - Reworked Stout Blarneys bar courtyard, fixed normals, re-adjusted UVs, corrected materials, reworked buntings.
 
 Algonquin:
   - Fixed Middle Park East Safehouse lampshades casting shadows.
@@ -530,7 +535,6 @@ Episodic content only.
 - Fixed IG_Pgirl_01 hair texture, also better textures were taken from console.
 - Changed weapons on Shifting Weight mission cutscene: female with pistol was replaced with micro uzi, to match the sound of shot from it, sweeper was replaced with pistol, so it won't clip with wall when Johnny runs to bikes.
 
- 
 ### TBoGT
 - Fixed cutscene golden uzi texture.
 - Fixed missing textures on Bahama Mamas club.
