@@ -175,3 +175,34 @@ Hove Beach:
 Broker:
 -Fixed "Turning You On" awning transparent underside and surround buildings' UVs, normals, broken geometry, and adjusted collisions
 -Fixed floating dirt that surrounds Broker Hospital
+
+05/28/2024
+
+Hove Beach:
+-Minor touch-ups of previous fixes for sidewalks, roads, alleyways, and structures
+-Floating road construction between Go Karts track and carnival entrance no longer floats above road
+-Fixed Firefly Island Amphitheater hole on rooftop, other minor touch-ups
+-Fixed Bumper n' Dumper small sign and storefront UV mapping
+-Added shadows and reflections to grating on overpasses on rooftops near construction site
+-Hove Beach station reworked, fixed missing geometry, misaligned UV's, dark AO on windows
+-Spaghetti storefront fixed UVs, smoothed normals, cleaned-up stretched textures
+-Added Lombank missing night emissive signs and ads
+
+Broker:
+-Updated Broker office buildings to include @vavrinko's fixes, as well as ensure consistency of ads and billboards during day and night
+-Courthouse reworked, fixed geometry errors, re-mapped UVs
+-Redone UVs for abandoned subway tunnel stone fence near Cerveza Heights 
+
+Algonquin:
+-Touched-up Natural Museum
+-Fixed Algonquin Safehouse exit light bulb not lighting up
+
+Acter Industrial Park:
+-Removed duplicate floating metal grated runway/overpass
+
+Props/misc:
+-Enabled shadows on promenade fences (sort, corner 1 & 2, long)
+-Disabled previously enabled dynamic shadow on red soda vending machine, reverted intensity to vanilla
+-Phone speckle pattern made texture-resolution independent (as per request)
+
+
