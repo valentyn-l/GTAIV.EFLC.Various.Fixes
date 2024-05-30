@@ -677,7 +677,7 @@ Use this if you do not have shader fixes (FusionFix, for eg.) installed.
 - Because on consoles grass was different, the PC-exclusive one turned out to be mostly hidden under the ground.
 - This fix is optional to avoid conflicts with Console Visuals mod.
 
-![uFE1lzY](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/30eaba15-ce29-4015-888e-37e454fd3088)
+![sGsNS8f](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/8f0fa917-620f-4c3e-b65b-b8447572d4d6)
 
 ### Fixed PC trees height by [vavrinko](https://gtaforums.com/profile/1222168-vavrinko/)
 - Because on consoles grass was different, the PC-exclusive one turned out to be mostly hidden under the ground.
