@@ -206,3 +206,83 @@ Props/misc:
 -Phone speckle pattern made texture-resolution independent (as per request)
 
 
+06/30/2024
+
+Hove Beach:
+-Fixed missing AO under a section of the Pier
+-Hove Beach Station glass roofing no longer lets rain through, stained glass now casts shadow while retaining alpha shader, railing along entrance improved
+-SPAGHETTI and surrounding buildings revamped (fixed stretched UVs, added specular maps, fixed normals)
+-Proper fix for Hove Beach projects shadow acne/shadow overlay
+-Fixed vertex AO intensity and UVs in corner behind "Show World" building
+-Fixed "LAW OFFICES" cut-off sign
+-Revamped Roman's Car Depot meshes for consistency between pre- and post-burning 
+-Fixed wooden rental billboard not casting shadow on rooftop across from Roman's Car Depot, fixed UVs and normals on surrounding details
+-Fixed and optimized Iroquois Avenue brownstones' flickering door sills
+-Fixed broken normals on "Lopez' Food Center" building
+-Fixed stretched road texture near construction site and crosswalk textures around the area
+-Fixed Police station normals and mesh holes
+-Fixed "Perestroika Club" mesh normals and stretched "Ricks Rib Shack" awning texture
+
+Bohan:
+-Fixed Greene Avenue grass (incorrect normals and misaligned UVs)
+-Fixed Fortside train track grille texturing (incorrect pattern and stretched UVs)
+-Fixed stretched road texture near safehouse
+-Fixed normals of road leading into construction site
+
+Firefly Island:
+-Fixed LOD normals
+-Fixed hole in map due to missing transition between LOD1 and LOD2 in building to the right of "Essjay Emm"
+-Fixed "Essjay Emm" row of buildings' normals and stretched UVs
+-Improved LODs around the area (texture matching between LOD1, 2, 3, normals, mesh positioning)
+-Reworked beach sand section near Beachgate, reworked all beach LODs (now feature seamless transitions between levels and no longer have map holes)
+
+Beachgate:
+-Improved stairs/pier at the tip of island and fixed its broken LOD
+
+Charge Island:
+-Fixed jetty normals
+-Fixed industrial dome concrete base's normals and disconnected railings
+-Fixed ground materials wrongly using concrete instead of grass in areas around baseball field
+-Fixed stretched textures and broken normals on bridge section near toll booths
+-Fixed LOD broken normals on part of bridge area 
+-Fixed normals, stretched textures (such as road bumps and grates), and geometry holes along the length of the entire highway/bridge road from Dukes to Bohan
+
+Broker:
+-Fixed normals on jetty, grounded floating docking rails
+-Fixed Burger Shot fallen letters not casting shadows
+-Fixed BOABO advertisement normals
+-Fixed misaligned lights in underpass near docks
+-Fixed stretched road storm drain UV near the Jamaican Bar
+-Revamped Promenade leading into under Broker Bridge (re-did UVs, aligned cobblestone texture, fixed texture mismatching, mesh holes)
+-Revamped docks base mesh and respective collision (closed mesh holes, optimized geometry, aligned UVs, removed broken dirt overlay on inner short side wall)
+-Fixed stretched texture on green support beam structure when exiting docks
+-Red and white wooden planks in front of Platypus ship have collisions now and no longer float 
+-Fixed BOABO area LOD mismatches and normals
+-Fixed broken RON gas station emissive fix mesh positioning near Firefly Island and highway leading from Broker into Dukes
+
+Algonquin:
+-Disabled Fife Palace tower helipad lights shadows
+-Fixed Algonquin Bridge strong vertex AO on steel beams
+-Fixed occluded/clipping ceiling lights under highway in Lancet
+-Fixed hole on the two pillars at the top of Star Junction billboard flatiron building and its LOD
+-Fixed LOD normals in area around central Algonquin (Star Junction, Zirconium building, etc)
+-Fixed LOD normals in The Exchange
+
+Francis International Airport:
+-Revamped parking area and garage (fixed missing curb face, seams, vertex AO, broken normals, mesh placement)
+-Fixed material mismatch on grass patches along runways
+
+Dukes:
+-Removed duplicate ceiling light in blue parking shed
+-Improved yellow and red warehouse LOD1 near scrapyard, fixed nearby LOD normals
+-Fixed red storage warehouse building normals
+
+Props/misc:
+-Disabled some kiosks' shadows, retextured door placement to make practical sense
+-Fixed Boardwalk Info sign normals and UVs
+-Re-enabled shadow-casting on more props
+-Added proper light bulbs to paper lamps in Middle Park SF, fixed paper material casting shadow under certain conditions
+-Workaround for wrong UVs on grouped phoneboxes
+-Fixed some Hove Beach prop LOD broken normals
+-Fixed worn-down pier and concrete cinder normals across the map
+-Fixed water tower LOD material mismatch
