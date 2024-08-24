@@ -286,3 +286,69 @@ Props/misc:
 -Fixed some Hove Beach prop LOD broken normals
 -Fixed worn-down pier and concrete cinder normals across the map
 -Fixed water tower LOD material mismatch
+
+08/25/2024
+
+Hove Beach:
+-Removed duplicate fire escape in alleyway behind residential building in front to the left of safehouse
+
+Firefly Island:
+-Re-visited Go Karts fencing mesh 
+-Fixed Bowling building broken normals, UVs, and vertex AO
+-Fixed paneled fencing vertex AO, UVs, and broken geometry
+-Fixed various broken emissive window textures
+
+Broker:
+-Fixed placement of fences on cliff to the right of "Homebrew Cafe"
+-Reworked mesh UVs and normals along South Slopes highway
+-Fixed FDLC building LOD holes and matched texture-work with base mesh
+-Restored shadows to gunshop railing
+-Reworked downtown Broker 24/7 shop block (UVs, broken geometry, null textures, broken normals, mesh holes, etc.)
+-Reworked coastline along freeway (UVs, mesh placement, mesh holes and collision, texture tiling, broken normals, etc.)
+-Reworked freeway piping
+-Fixed wrong roof textures and broken normals on "Bargain Store" building block and parking 
+-Fixed autoshop ground mesh broken normals and UV tiling near freeway
+-Fixed "Wrong is Right" apartment curtain not being visible from outside
+-Fixed "Rightcab Co" building texturing 
+-Re-visited BOABO area piping and signage meshes and UVs
+-Fixed BOABO wall and bridge intersection mesh hole
+-Re-visited promenade UVs and texturing 
+-Re-visited RON gas station texturing and normals
+-Fixed normals and adjusted texturing on overpass/highway leading to Broker bridge
+-Fixed underpass area near Firefly Island normals and grass UVs
+-Fixed green metal beam props' stretched UVs
+-Fixed freeway texturing, mesh holes, stretched UVs, and broken normals
+-Fixed various road stretched UVs
+-Fixed scaffolding pipes' broken normals
+-Fixed missing collision on residential building courtyard in downtown near arch monument
+
+Dukes:
+-Fixed broken normals on opened garage
+-Fixed arena collision material
+
+Bohan:
+-Fixed "Rigged to Blow" auto shop interior mesh and collision appearing after mission under certain circumstances
+-Fixed broken normals on road/pavement
+-Re-visited concrete block normals on pier in north coast
+-Adjusted Bohan Safehouse ornamental light emissive intensity to match light brightness
+-Fixed auto shop normals and texture tiling
+
+Algonquin:
+-Fixed Algonquin bridge highest LOD texturing errors and normals
+-Fixed Middle Park fountain area broken normals, adjusted texturing
+
+Francis International Airport:
+-Fixed broken normals on white fenced wall along road
+-Fixed runway emissive signs offset
+
+Beachgate:
+-Fixed entrance mesh floating off ground, other misc fixes
+
+Alderney:
+-Fixed Police Station ground broken normals
+-Fixed raised collision on mansion tiles
+
+Props:
+-Reworked bin meshes, UV tiling, vertex AO
+-Fixed box stack broken normals
+-Fixed food stall broken normals
