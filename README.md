@@ -178,6 +178,54 @@ Main part of the mod, which includes only fixes for things that look and work in
 - Fixed peds wall leaning scenario coordinates in Westdyke.
 - Fixed park gardering scenario in East Hook, now peds perform this scenario in Rotterdam Hill.
 
+### Broker
+- [Fixed missing shadows and transparency issues for "Pizza Salad" street cafe in Downtown Broker](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/issues/30/).
+- Fixed wrong material of barbed on abandoned factory in Beechwood City.
+- Fixed wrong material of rails on subway station in South Slopes - Schottler.
+- Fixed lots of plants in East Hook using wrong material.
+- Fixed lots of fences using wrong material in Francis International Airport.
+- Fixed wrong roof fence material on building under the Broker Bridge in Hove Beach.
+- Fixed wrong material of yellow fences on sugar factory in BOABO.
+
+### Bohan
+- Fixed wrong material of spiked fence on the wall in Boulevard.
+- Fixed sunken tug boat using wrong texture for cable.
+ 
+### Algonquin
+- Fixed wrong fence material on The Magic Curtain building in Star Junction.
+- Fixed wrong rail and iron mesh material on The Libertonian Museum building.
+- Fixed roof fences using wrong material on two buildings in The Meat Quarter.
+- Changed glass material on the "Timewarner" building to fix transparency issues and make it able to cast shadows.
+- Fixed missing shadows and transparency issues for "Squid Row" street cafe in Easton.
+- Fixed missing shadows and transparency issues for "Viendemorte" street cafe in The Triangle.
+- Fixed incorrect Ranch shop sign on Barium St. in The Exchange.
+- Fixed pier barriers using wrong material in Colony Island.
+- Fixed wrong mesh material of collapsed billboard in Colony Island.
+- Fixed wrong mesh material for a couple of jettys in Colony Island.
+- Fixed wrong material of plants in Colony Island.
+- Fixed issue with sidewalk vents having opaque texture, thereby hiding the pipes that supposed to be seen in Colony Island.
+- [Changed showroom windows material on Grotti car dealership place in Algonquin to fix flickering](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/issues/90).
+- Fixed texture of parking lines in Colony Island and on parking lot in Purgatory.
+- Fixed wrong material of Broker Bridge structure from Fishmarket South district.
+- Fixed a couple of fences in Fishmarket North district:
+  - Broken fence that is used on Harboring a Grudge mission now casts shadow, also its texture has been changed to match the other fences that are connected to it;
+  - Again on Harboring a Grudge mission a fence near the climbing spot now has fixed barbed wire texture.
+- Fixed wrong parking sign LOD texture in Westminster.
+- Fixed wrong material of yellow fences on helipad in Westminster.
+- Fixed wrong material of balcony railings on one of the buildings in Middle Park West district.
+- Fixed very reflective grass patch on playground in North Holland, also added procedural vegetation to it.
+- Fixed fences and plants having wrong material in Northwood projects.
+- Fixed bunch of railings and fences using wrong material in North and East Holland.
+
+### Alderney
+- Fixed issue with some fences and barbed wires not casting shadows in Alderney State Correctional Facility.
+
+### Pedestrians
+- Improved some of the pedestrian accessorie textures by using source ones that were found in game files (same for TLAD).
+- Fixed M_Y_Streetpunk_04 missing belt detail on normal and specular map textures.
+- Revised M_Y_Platin_02 fix, where a cap worn backwards was replaced with a duplicate model of different hat.
+- Fixed M_M_Sweeper wrong cap texture.
+
 #### Screenshots
 ![AMXzUQJ](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/abcb3563-3fd9-45d5-9e72-fcd7b924a0ff) 
 ![7nB7298](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/3b982083-68b9-4a36-8733-ee8a6d03999e)
@@ -213,34 +261,26 @@ Main part of the mod, which includes only fixes for things that look and work in
 ---
 
 ## Props Placement Fixes
+Maps now include Pedestrian Spawn Fixes, for better understanding of what was fixed and where.
+#### Added more Props Placement Fixes:
+- Broker: №11, 12, 13, 14, 32
+- Bohan: №4
+- Algonquin: №9, 10, 13
+- Alderney: №3, 5
+#### ... and a few Pedestrian Spawn Fixes:
+- Broker: №3
+- Algonquin: №1, 2, 3
 
-![fHXNBoR](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/8002ae5e-893b-4167-9e97-f068911432f9)
-![0MJXMH7](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/c71e7dbd-0ab2-4862-9a6c-71c897f611cc)
-![Zvj4eeW](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/1bb93198-3c0a-40bf-86a9-e59a64767a78)
-![LTsjwN1](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/72242cec-1a66-4cf2-99bb-07b457534c14)
+<img width="608" height="750" alt="image thumb png 8fbc377ccc5510e88db658834e322ecf" src="https://github.com/user-attachments/assets/2d08983a-2042-49c2-872d-1e2580c9312a" />
+<img width="1000" height="827" alt="image thumb png 31cb8ed1893a057055013fa46f62e187" src="https://github.com/user-attachments/assets/66a33c76-22c4-438d-a3ea-f916806c45d2" />
+<img width="273" height="750" alt="image thumb png 24e194eb6f638d50d7d0b561794e64b9" src="https://github.com/user-attachments/assets/f890d5ea-86e8-4239-b368-7b65747d3840" />
+<img width="383" height="750" alt="image thumb png c880cc0b493e75718acc431cf3f12628" src="https://github.com/user-attachments/assets/4aafad39-a321-474d-843d-84401baa0f87" />
 
 ---
 
 ## Community Fixes
 
 This section includes other people's work that has been provided for the mod.
-
-### Fixes and improvements by [MikhailRock](https://gtaforums.com/profile/1289695-isaac_clarke/)
-- Fixed gap between fence and road in Algonquin.
-- Fixed wardrobe collision in Dwayne's apartment.
-- Fixed mirror collision and removed flickering graffity in Middle Park toilet.
-- Fixed a lot of stuff in Triangle club:
-- - Fixed display of paintings.
-- - Fixed a bug where objects were not displayed or flickering on mirrors, also fixed mirrors collision.
-- - Fixed gap between baseboard and wall.
-- - Fixed some incorrectly placed and stretched textures.
-- - Fixed gap in the lamp in dressing room.
-- - Fixed various holes on the ceiling.
-- - Fixed sinks in dressing room.
-- - Fixed incorrect neon sign inside the club.
-- - Fixed shadows that were either placed incorrect, or makes some parts of the club too dark.
-- - Restored unused paintings.
-- [WPL fixes №4(Bohan) and №8(Algonquin)](https://imgur.com/a/wpdX5E5).
 
 ### Improvements by [Ash_735](https://gtaforums.com/profile/129346-ash_735/)
 - Restored higher resolution textures from IV PC across TLAD/TBOGT (all TBoGT map textures is in PC quality now, and this is why update weights 500mb more, but it's definitely worth it).
@@ -252,18 +292,6 @@ This section includes other people's work that has been provided for the mod.
 - Made a design choice in TW@ to use both EFLC wallpaper and original IV wallpaper (EFLC wallpaper is used on old CRT monitors, IV style is used on TFT monitors).
 - Remade reflective textures used for night club bottles (evident in Maisonette 9 and Bahama Mamas).
 - Improved quality of console golf net texture.
-
-### Fixes and improvements by [Tomasak](https://gtaforums.com/profile/366546-igor-bogdanoff/)
-- Fixed sign collision at the airport.
-- Fixed hole on top of the Rotterdam Tower.
-- Fixed office window transparency in Triangle сlub.
-- Window texture in Algonquin apartment were taken from console.
-
-TLAD
-  - Fixed Johnny's broken head model.
-
-TBOGT
-  - Fixed slightly broken Luis head model.
 
 ### Fixes by [brokensymmetry](https://gtaforums.com/profile/1187609-brokensymmetry/)
 - Fixed animation of giving money to beggars.
@@ -279,17 +307,10 @@ TBOGT
 - Fixed missing shadow from wall in Northwood near the junk yard.
 - Fixed flickering billboard in Hove Beach. Special thanks to [Philips_27](https://gtaforums.com/profile/969448-philips_27/) for creating a [video](https://www.youtube.com/watch?v=jV5u-DDO-L8) about how this bug looks like.
 
-TLAD
+#### TLAD
   - Fixed semi-automatic pistol incorrect rotation when shooting from car.
 
-### Fixes by [Philips_27](https://gtaforums.com/profile/969448-philips_27/)
-- Fixed window texture on warehouse in East Hook.
-
-### Console content by [Parallellines](https://gtaforums.com/profile/1317965-parallellines/)
-- Restored console lights (lamppost coronas; more intense kitchen light in Roman's apartment).
-- Extracted building textures in Firefly Projects from PS3, since they turned out to be better there (and on XBOX too) than on PC. Also, compressions of these textures have been cleaned up by [Ash_735](https://gtaforums.com/profile/129346-ash_735/).
-
-### Fixes and improvements [_CP_](https://gtaforums.com/profile/257839-_cp_/)
+### Fixes and improvements [DayL](https://gtaforums.com/profile/928141-dayl/)
 - Fixed broken beach LOD texture in Firefly Island.
 - Fixed double fence model in Firefly Island.
 - Fixed flickering graffiti in Middle Park toilet mirror.
@@ -300,20 +321,73 @@ TLAD
 - Fixed missing railtrack reflections near McReary's house.
 - Fixed issue with grille on railway was not visible from ground in Rotterdam Hill.
 
-### Fixes by [TheYoshiPunch](https://gtaforums.com/profile/1145901-theyoshipunch/)
-- Fixed M_Y_Gangel_01 hair texture.
+### Improvements by [DayL](https://gtaforums.com/profile/257839-_cp_/)
+- Added more light sources to the subway station terminal in Francis International Airport.
+- Added volumetric light sources to Betta signs in BOABO.
+- Added more light sources to the Grotti car dealership place in Algonquin.
+- Added light source to the Perestroika sign.
+- Added more light sources to the car tunnel in Hatton Gardens, to make the place not completely dark.
+- Added more light sources to the hospital parking space in City Hall.
+- Added more light sources to the Castle Gardens tunnel.
 
-### Fixes by [brokensymmetry](https://gtaforums.com/profile/1187609-brokensymmetry/)
-- Fixed stretched fence on Algonquin pedestrian bridge.
-- Changed tollbooth glass to match console one.
-- Added missing part of the barge on map close to airport.
-- Removed dynamic flag from fence in Port Tudor that will fall after slight contact.
+### Improvements by [Magic_Al](https://gtaforums.com/profile/171594-magic_al/)
+- Added dynamic shadows from lights in Castle Gardens tunnel.
+- Added dynamic shadows from railways lights in Hove Beach, Schottler, Bohan.
+- Added dynamic shadows from lights in airport carpark.
+- Replaced waiting room sign texture at the ferry terminal in Alderney with console one.
+- Replaced several instances of lower resolution ec_hbr_trucktyre texture with diffuse, normal, and specular from ec_trailer models from Max Payne 3.
 
-TLAD
-  - Fixed semi-automatic pistol incorrect rotation when shooting from car.
+### Fixes and improvements by [MikhailRock](https://gtaforums.com/profile/1289695-isaac_clarke/)
+- Fixed gap between fence and road in Algonquin.
+- Fixed wardrobe collision in Dwayne's apartment.
+- Fixed mirror collision and removed flickering graffity in Middle Park toilet.
+- Fixed a lot of stuff in Triangle club:
+  - Fixed display of paintings.
+  - Fixed a bug where objects were not displayed or flickering on mirrors, also fixed mirrors collision.
+  - Fixed gap between baseboard and wall.
+  - Fixed some incorrectly placed and stretched textures.
+  - Fixed gap in the lamp in dressing room.
+  - Fixed various holes on the ceiling.
+  - Fixed sinks in dressing room.
+  - Fixed incorrect neon sign inside the club.
+  - Fixed shadows that were either placed incorrect, or makes some parts of the club too dark.
+  - Restored unused paintings.
+- [WPL fixes №4(Bohan) and №8(Algonquin)](https://imgur.com/a/wpdX5E5).
 
 ### Fixes by [Olanov](https://gtaforums.com/profile/922375-olanov/)
 - Added variety to cops that arresing Billy on This Sh*t's Cursed mission.
+
+### Fixes by [Panzermann11](https://gtaforums.com/profile/1201841-panzermann11/)
+- Fixed N.O.O.S.E. gas masks using the incorrect texture (specular instead of diffuse).
+
+### Console content by [Parallellines](https://gtaforums.com/profile/1317965-parallellines/)
+- Restored console lights (lamppost coronas; more intense kitchen light in Roman's apartment).
+- Extracted building textures in Firefly Projects from PS3, since they turned out to be better there (and on XBOX too) than on PC. Also, compressions of these textures have been cleaned up by [Ash_735](https://gtaforums.com/profile/129346-ash_735/).
+
+### Fixes by [Philips_27](https://gtaforums.com/profile/969448-philips_27/)
+- Fixed window texture on warehouse in East Hook.
+
+### Improvements by [RecklessGlue540](https://gtaforums.com/profile/1326547-recklessglue540/)
+- Added dynamic omni lights in the Schottler tunnel.
+- Fixed incorrect lights rotation for one of the traffic lights model.
+
+### Fixes by [TheYoshiPunch](https://gtaforums.com/profile/1145901-theyoshipunch/)
+- Fixed M_Y_Gangel_01 hair texture.
+
+### Fixes and improvements by [Tomasak](https://gtaforums.com/profile/366546-igor-bogdanoff/)
+- Fixed sign collision at the airport.
+- Fixed hole on top of the Rotterdam Tower.
+- Fixed office window transparency in Triangle сlub.
+- Window texture in Algonquin apartment were taken from console.
+
+#### TLAD
+  - Fixed Johnny's broken head model.
+
+#### TBOGT
+  - Fixed slightly broken Luis head model.
+
+### Fixes by UnknownLITE
+- Fixed incorrect lights rotation for one of the traffic lights model.
 
 ### Fixes and improvements by [vavrinko](https://gtaforums.com/profile/1222168-vavrinko/)
 - Added some details to restored Feltzer billboard in airport.
@@ -346,24 +420,14 @@ TLAD
 - Fixed floating Keep Clear parking text in front of Elizabeta's place.
 - Fixed sink texture being applied on the kitchen shelves in Playboy X apartment.
 
-TLAD
+#### TLAD
   - Fixed issue with cards transparency.
 
-TBOGT
+#### TBOGT
   - Fixed missing textures on Cluckin' Bell in Berhchem and Fixed missing fence texture in Port Tudor.
 
-### Improvements by [Magic_Al](https://gtaforums.com/profile/171594-magic_al/)
-- Added dynamic shadows from lights in Castle Gardens tunnel.
-- Added dynamic shadows from railways lights in Hove Beach, Schottler, Bohan.
-- Added dynamic shadows from lights in airport carpark.
-- Replaced waiting room sign texture at the ferry terminal in Alderney with console one.
-- Replaced several instances of lower resolution ec_hbr_trucktyre texture with diffuse, normal, and specular from ec_trailer models from Max Payne 3.
-
-### Fixes by [Panzermann11](https://gtaforums.com/profile/1201841-panzermann11/)
-- Fixed N.O.O.S.E. gas masks using the incorrect texture (specular instead of diffuse).
-
 ### Fixes and improvements [Valentyn_L](https://gtaforums.com/profile/1324680-valentyn_l/)
-Firefly Island and boardwalk:
+#### Firefly Island and boardwalk:
   - Fixed dark AO on Hove Beach pier LOD.
   - Fixed boardwalk railing meshes, stair and railing UV tiling, railing placement and collisions, and covered-up seams on curved paths.
   - Fixed overly reflective building rooves.
@@ -381,7 +445,7 @@ Firefly Island and boardwalk:
   - Fixed Firefly Island Projects shadow acne and roof normals/smoothing groups.
   - Fixed Firefly Island boardwalk ground collision holes.
 
-Hove Beach, area surrounding Roman's Apartment:
+#### Hove Beach, area surrounding Roman's Apartment:
   - Fixed dark AO in courtyard behind Johnson's building.
   - Assigned correct gta_cutout_fence material to tree fencing.
   - Fixed Johnson's and Brief Fascination buildings: fixed mesh holes, normals and smoothing groups, back-face culling on details, overly reflective roof and building faces, added reflective glass material to storefronts, adjusted Johnson's sign positions and positioning of night signs.
@@ -392,7 +456,7 @@ Hove Beach, area surrounding Roman's Apartment:
   - Fixed large residential building behind LomBank AO intensity and dark streaking and roof fence not casting shadow.
   - Fixed dirt UV direction, normals, and vertex shading in alleyway behind Hove Beach safehouse.
 
-Hove Beach:
+#### Hove Beach:
   - Fixed overly reflective large residential buildings due to incorrect specular maps.
   - Fixed missing Native American Engines sign and building mesh.
   - Fixed triangular ad pole missing a sign near RON Gas Station, UV fixes.
@@ -412,7 +476,7 @@ Hove Beach:
   - Spaghetti storefront fixed UVs, smoothed normals, cleaned-up stretched textures.
   - Added Lombank missing night emissive signs and ads.
 
-Broker:
+#### Broker:
   - Fixed UV mapping on roof of warehouse beside "Rigged to Blow" mission bomb truck location and adjusted AO intensity.
   - Fixed Broker Hospital normals, smoothing groups, and warped UVs.
   - Fixed dark AO in building courtyard in Broker.
@@ -431,16 +495,16 @@ Broker:
   - Redone UVs for abandoned subway tunnel stone fence near Cerveza Heights.
   - Updated Broker office buildings to include [vavrinko](https://gtaforums.com/profile/1222168-vavrinko/)'s fixes, as well as ensure consistency of ads and billboards during day and night
   
-Bohan:
+#### Bohan:
   - Fixed 24/7 signs and building normals, across player apartment.
   - Fixed Bohan construction site ramp collision and one-way glass collision that would trap the player.
 
-Dukes:
+#### Dukes:
   - Fixed Dukes Police Station flickering stuccos.
   - Fixed Steinway graveyard broken normals on graves.
   - Reworked Stout Blarneys bar courtyard, fixed normals, re-adjusted UVs, corrected materials, reworked buntings.
 
-Algonquin:
+#### Algonquin:
   - Fixed Middle Park East Safehouse lampshades casting shadows.
   - Restored St Openshaw texture and fixed dark AO on smokestack beside Algonquin Bridge.
   - Fixed Castle Gardens Hospital window mesh not casting shadows.
@@ -451,13 +515,13 @@ Algonquin:
   - Fixed seafloor tiling and missing seafloor on Northwestern side.
   - Fixed Algonquin Safehouse exit light bulb not lighting up
 
-Liberty Island:
+#### Liberty Island:
   - Fixed dark AO in Liberty Island park grass.
 
-Acter Industrial Park:
+#### Acter Industrial Park:
   - Removed duplicate floating metal grated runway/overpass.
   
-Props:
+#### Props:
   - Improved drinking fountain to better fit reference photo, added specular and normal maps.
   - Restored shadows to misc objects such as wires, grates, fences, etc.
   - Restored wire material to most wires (WIP).
@@ -472,7 +536,6 @@ Props:
   - Phone speckle pattern made texture-resolution independent (as per request)
 
 #### Screenshots
-![I1OuKge](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/b0a84ddd-4879-4ac7-ab50-91a1f2f5b8e9)
 ![I1OuKge](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/8e11dd9d-34af-480a-8aa0-d5b18b912e08)
 ![AivLoTt](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/bc290b37-7200-4ce7-9871-f228b53ff509)
 ![TSlfBAR](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/c7ec52f1-34b0-4f34-8a54-abc2dce71b16)
@@ -513,6 +576,14 @@ Props:
 ![V109vLw](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/4de3c9a6-a77b-4263-bfe9-dcc15958523f)
 ![d7vvcm0](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/6bde6916-cdc3-48b8-8913-1bbf1a608118)
 ![l3IfNlB](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/b7631bad-1ef5-4e3c-bed5-c3238d30483e)
+<video src="https://github.com/user-attachments/assets/85a56802-069f-4cad-91dd-9cef780fcc41" width="800" height="450"></video> 
+<video src="https://github.com/user-attachments/assets/c3140624-3676-4a46-bcc1-076178e52660" width="800" height="450"></video> 
+<video src="https://github.com/user-attachments/assets/a61641c5-f41d-46ea-b0aa-6ca43120002e" width="800" height="450"></video> 
+<video src="https://github.com/user-attachments/assets/2a16dfc8-7c9c-4cda-a524-600bc2ae5435" width="800" height="450"></video>
+<img width="2400" height="1800" alt="image png 33f09cc6fd0974f6a4d9951075c4ddfd" src="https://github.com/user-attachments/assets/01ee7b27-0ab9-40dd-b010-c04cf866856c" />
+<img width="2000" height="800" alt="image png a6fe073693070f0e19d1ffd3dffb2f83" src="https://github.com/user-attachments/assets/6c26301d-dfc9-4931-94f5-bf5828939a7e" />
+<img width="750" height="750" alt="image thumb png 599d89cd3953527a53cdc7407b424b45" src="https://github.com/user-attachments/assets/dc9db987-945e-4bea-bbde-22367e56b43d" />
+<img width="1024" height="1024" alt="image png 0f0679f087698511a81c09237acf2b24" src="https://github.com/user-attachments/assets/34d2f0d1-8467-449e-b07f-f36ebf4bb60e" />
 
 ---
 
@@ -535,6 +606,42 @@ Some beta content makes sense to be restored rather than replaced, not going to 
 - Restored unused "Ammu Nation" shop sign in front of the Maisonette 9 nightclub.
 - Added transparency to carwash roof windows in Purgatory.
 - Restored some missing billboards in East Island City.
+- Replaced beta "The Cleaners" shop sign LOD with the final "Plumbers" one in Schottler.
+
+### Broker
+- Restored bunch of unused shop signs in Hove Beach, by replacing some of the overused ones (this is also the case of other restored signs):
+  - Restored "Laikas", "Аптека" and "Liquor & Wine" shop signs on Mohawk Ave.
+  - Moved "Mini-Market" sign to another building due to its being replaced with the "Laikas" one.
+  - Restored "Домашняя Кухня" and "Liquors and Wines" shop signs on Mohawk Ave near the Perestroika club.
+  - Restored "Long Distance Telephone Calling" and "Income Tax" signs on Perestroika club building.
+  - Moved "Ресторан Поздняя Ночь" shop sign to make "350 v. Brunt Gemini Cafe" one visible on Iroquois Ave.
+  - Restored "Greaves Travel Agency" and "Ведение Бизнесов" signs on Iroquois Ave.
+  - Restored "12 century Deli Supermarket", "Florist & Decoration" and "Inferior Markets" shop signs on Delaware Ave.
+  - Moved "Спиртной Магазин" sign to another building due to its being replaced with the "Florist & Decoration" one.
+- Restored "Advertising" sign on Cisco Street in Hove Beach - Outlook Park.
+- Restored "Firefly Island Cafe" and "Sugar Chomps Candy" signs near the Liberty Eye ferris wheel in Firefly Island.
+- Restored several unused signs in East Hook on "BLDG 56":
+  - Restored "Shelten NO.1" and "Machine Shop" signs;
+  - Replaced "Bohan Wholesale" sign with an unused "Trading Inc." sign.
+- Restored unused "Dorothy Lamb's", "Superstore & Deli" and "Hardware Store" shop signs on Cayuga Ave in Schottler.
+- Restored unused "Caribbean Fresh Laundromat" shop sign and unused "6-Pac" billboard on Wenrohronon Ave in Beechwood City.
+- Restored several unused signs as worn posters in Schottler - Beechwood City. They include unused "Bicycles Parts" sign and two unused signs from Beechwood City strip club.
+- Restored unused "Danny Boy's" sign on Cassidy Street in Schottler.
+- [Restored Plummet ad on the parking lot in Francis International Airport](https://gtaforums.com/topic/735829-grand-theft-auto-iv-beta-hunt/page/105/#comment-1072587600).
+
+### Dukes
+- Restored unused "Family Deli" and "Grocery, Halal Meat & Deli" shop signs on Dukes Boulevard in Cerveza Heights.
+- Restored unused "Pool" sign on the wall near the pool itself in Steinway Park.
+
+### Bohan
+- Restored missing "Hookers Point" part of the "Auto Glass" sign on Spin Street in Chase Point, also restored unused "Ring Tech Co." warehouse sign on the same street.
+- Restored unused "Schmit Electric" shop sign on Alcatraz Ave in Little Bay.
+
+### Algonquin
+- [Restored hidden "Sprunk" garage door texture on building in Middle Park West district](https://gtaforums.com/topic/735829-grand-theft-auto-iv-beta-hunt/page/105/#comment-1072581006).
+
+### Alderney
+- Restored "Produce" and "Custom Kitchen & Furnishing Co." shop signs on Big Horn Drive in Westdyke.
 
 #### Screenshots
 ![ZMYiMuZ](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/c07a62b7-8c2e-4264-8220-f5dc2732210b)
@@ -556,6 +663,9 @@ Some of this content already included in main part of the mod, but here is only 
 - Added transparency to titles during intro cutscene.
 - Restored laundromat shop sign in East Island City.
 - Extracted building textures in Firefly Projects from PS3, since they turned out to be better there than on PC.
+- Changed textures of police booths since they have more detail on consoles than on PC.
+- Changed texture of one air conditioner due to it having bit more saturated texture comparing to PC one.
+- Changed QUB3D arcade machine texture to the one from PS3 because it's slightly less compressed than PC one.
 
 #### Screenshots
 ![Ih7oJo7](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/de36fa51-4224-42b1-963c-aa9cc789e89d)
@@ -602,6 +712,15 @@ All sorts of texture improvements and other things will be in this section.
 - - some grassy areas in Steinway, East Island City and Cerveza Heights;
 - - Northwood and some areas in East Holland;
 - - some areas in Normandy and Alderney City.
+- Improved texture quality for some models that come with this mod by using high-res textures that were found across the game files.
+- Added procedural rubbish and vegetation to empty places on Seneca Ave, Earp Street and Dillon Street in Schottler.
+- Changed type of procedural rubbish in Schottler tunnel.
+- Added procedural vegetation to the empty places in Boulevard.
+- Changed texture of the fence on Wardite St. in Northwood from completely white to rusty-gray one for better look.
+- Changed texture of the pier fences in The Meat Quarter to a bit more detailed, so the fences will not look completely white.
+- Added procedural vegetation to the park in Colony Island, also removed some weirdly placed vegetation on the dock.
+- Added procedural vegetation to the empty places on Hematite St in Easton.
+- Added procedural vegetation to Liberty State Natural History Museum.
 
 #### Screenshots
 ![6pjSLZO](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/c1dfd1ad-5719-46aa-9a5b-a6596f1945a2)
@@ -625,7 +744,8 @@ Episodic content only.
 - Fixed IG_Pgirl_01 hair texture, also better textures were taken from console.
 - Changed weapons on Shifting Weight mission cutscene: female with pistol was replaced with micro uzi, to match the sound of shot from it, sweeper was replaced with pistol, so it won't clip with wall when Johnny runs to bikes.
 - Changed racing bat texture from wood to aluminum to match console look.
-- Restored missing normal and specular textures for Johnny's boots.
+- Restored missing normal and specular textures for Johnny's boots.Fixed broken M_Y_Gangels_04 glasses.
+- Fixed broken M_Y_Gangels_04 glasses.
  
 
 ### TBoGT
@@ -643,6 +763,7 @@ Episodic content only.
 - Improved textures for most of the TBoGT exclusive ads in Star Junction.
 - Restored missing normal and specular textures for Luis' drug or money bag.
 - During "Not So Fast" cutscene, game will use timecyc from the street, and not from interior.
+- Fixed M_Y_Clubeuro_03 normal map face texture.
 
 #### Screenshots
 ![YT5LfaX](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/a42eabd8-60e3-4b76-b59e-1fda8a40efcc)
@@ -663,6 +784,7 @@ This option is accurate to vanilla PC, however:
 - Windows DO NOT cast shadows;
 - Transparency and shadows look cleaner and do not shimmer;
 Use this if you do not have shader fixes (FusionFix, for eg.) installed.
+- Added a few more text corrections for "Fixed misspelled russian text" option.
 
 ![0V5qngp](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/097e9758-7d30-4980-a54e-b8821d8e84ef)
 
