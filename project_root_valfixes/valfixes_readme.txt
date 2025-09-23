@@ -352,3 +352,29 @@ Props:
 -Reworked bin meshes, UV tiling, vertex AO
 -Fixed box stack broken normals
 -Fixed food stall broken normals
+
+09/20/2025
+
+Hove Beach:
+-Fixed remaining metal grate smoothing groups
+
+Beachgate:
+-Fixed inverted normals on brick wall across from Faustin's house
+
+Broker:
+-Fixed Burger Shot fading, smoothing groups, vertex shading, and z-shift on sign models and LODs
+-Fixed several LOD broken normals
+-Fixed green dome building broken smoothing groups on main mesh and LOD
+-Reverted/added RON gas station interior shop lights to match LODs
+
+Algonquin:
+-Fixed Zirconium building LOD smoothing groups (no longer looks like mush)
+-Fixed broken normals on Pay n' Spray garage door in  West Way, Purgatory
+-Fixed broken normals and vertex shading on warehouse building
+
+South Bohan:
+-Fixed staircase broken normals, up the road from safehouse
+
+Props:
+-Fixed z-shift on internet cafe wall lights 
+
