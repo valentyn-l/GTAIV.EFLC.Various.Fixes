@@ -375,9 +375,6 @@ Algonquin:
 South Bohan:
 -Fixed staircase broken normals, up the road from safehouse
 
-Props:
--Fixed z-shift on internet cafe wall lights 
-
 10/12/2025
 
 Alderney:
