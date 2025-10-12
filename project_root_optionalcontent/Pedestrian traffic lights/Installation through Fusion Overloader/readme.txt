@@ -1,0 +1,3 @@
+Since there are several mods that affect lampposts, I cannot know which one of them will have the highest priority in Fusion Overloader, so the only way to install it is manually.
+For PC and PS3&X360 options you just need to drag and drop ny_lamp_biggreen.wtd and ny_lamp_chrm_pedx.wtd files in .img archive that have the highest priority.
+For Functional option you need to drop the update folder in your game folder.

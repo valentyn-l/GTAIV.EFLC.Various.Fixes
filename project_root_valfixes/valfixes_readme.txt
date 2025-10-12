@@ -378,3 +378,58 @@ South Bohan:
 Props:
 -Fixed z-shift on internet cafe wall lights 
 
+10/12/2025
+
+Alderney:
+- Fixed Booth Tunnel white LOD pop-in at low view distances
+
+Algonquin:
+- Fixed broken normals on the Algonquin Bridge entrance road and stone base
+- Fixed and improved UV mapping and normals on tiles and embankment in front of the Middle Park East safehouse
+
+Broker:
+- Fixed stretched UVs and broken normals on promenade stairs, walls, and railings
+- Improved Fire Station lighting: added shadows to lights, removed redundant light sources, and added spotlights to the shelving area
+- Fixed Broker Bridge base floor and dirt normals
+
+Castle Garden City:
+- Fixed stretched UVs on the park ramp wall
+
+Castle Gardens:
+- Fixed normals on pipes and rods inside construction sites
+
+Colony Island:
+- Adjusted powerline placement to prevent contact with the Skycar during ascent and descent into Charge Island
+- Fixed normals and UV mapping on Skycar cables
+- Fixed normals and floating pillar meshes on residential buildings
+- Fixed broken normals on ground meshes near the docks
+
+Francis International Airport:
+- Fixed missing texture on the LCPD station wall at the top of the stairs
+- Fixed train station map with offset UVs (https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/issues/106)
+
+Hove Beach:
+- Realigned three spotlights on the green underpass road sign
+- Hove Beach Station: added shadows to parking lot lights and adjusted interior lighting to minimize light leakage
+- Fixed normals on back alley building ramp
+- Fixed broken normals and improved UV mapping on 24/7 store building
+
+Lancet:
+- Smoothed normals on yellow U-shaped rails in the gas station
+
+Middle Park:
+- Improved gazebo normals and changed plant material from alpha to cutout
+- Fixed and smoothed boathouse/restaurant mesh normals
+
+Middle Park East:
+- Fixed and improved UV mapping and normals on tiles and embankment in front of the safehouse
+
+North Holland:
+- Fixed flipped "Exit" sign in Vauxite Subway Station (https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/issues/106)
+
+Tudor:
+- Fixed misaligned spotlights in the warehouse across from the Sprunk factory
+
+Misc:
+- Fixed jetty normals across multiple map areas
+- Smoothed normals and corrected missing or misaligned lights on various highway signs throughout the city
