@@ -1,36 +1,6 @@
-﻿Val's Fixes Changelog (with archive names):
+﻿Val's Fixes Changelog:
 
-slod_ci6_7_be13_grp.wdd 
-ci3b_ksun_01.wdr
-ci3c_ksun_01.wdr
-ci3d_ksun_01.wdr
-ci3e_ksun_01.wdr
-ci4a_ksun_01.wdr
-ci4c_ksun_01.wdr
-ci4d_ksun_01.wdr
-ci4g_ksun_01.wdr
-ci5a_ksun.wdr
-ci5c_ksun_01.wdr
-ci5fenceb_ksun.wdr
-ciblka_ksun_030p.wdr
-ciblka_ksun_060p.wdr
-ciblkb_ksun_030p.wdr
-ciblkh_ksun_01.wdr
-ciblkh_ksun_01de.wdr
-ciblkk_ksun_03b.wdr
-ciblkk_ksun_030p.wdr
-cigregs_ks01.wdr
-cigyroc_ks01.wdr
-ciparc_ksxr_02.wdr
-ciparjmp_ks01.wdr
-cishootfreak_01.wdr
-ci_beach1_xr_.wdr
-ci_temprail01.wdr 
-ks_coastwall_01.wdr
-ks_s_rollfence 1.wdr
-og_bs3blk07station01.wdr
-og_bs3blk08ten.wdr
-	Firefly Island and boardwalk:
+Firefly Island and boardwalk:
 		-Fixed dark AO on Hove Beach pier LOD.
 		-Fixed boardwalk railing meshes, stair and railing UV tiling, railing placement and collisions, textures, and covered-up seams on curved paths.
 		-Fixed overly reflective building rooves.
@@ -46,15 +16,7 @@ og_bs3blk08ten.wdr
 		-Fixed overly reflective large residential buildings due to incorrect specular maps.
 		-Adjusted pier boards texture and fixed missing pillar collision under pier.
 		
-ag_roads_brks03.wdr
-ci3a_ksun_01.wdr
-ci3a_ksun_01night.wdr
-ks_citeleline_01.wdr
-ks_citeleline_02.wdr
-ks_teleline_01.wdr
-rt5bank_ksun.wdr
-rt5f_ksun.wdr
-	Hove Beach, area surrounding Roman's Apartment:
+Hove Beach, area surrounding Roman's Apartment:
 		-Fixed dark AO in courtyard behind Johnson's building.
 		-Assigned correct gta_cutout_fence material to tree fencing.
 		-Fixed Johnson's and Brief Fascination buildings: fixed mesh holes, normals and smoothing groups, back-face culling on details, overly reflective roof and building faces, added reflective glass material to storefronts, adjusted Johnson's sign positions and positioning of night signs.
@@ -64,47 +26,24 @@ rt5f_ksun.wdr
 		-Fixed LomBank normals and added specular and normal maps to windows and granite material.
 		-Fixed large residential building behind LomBank AO intensity and dark streaking and roof fence not casting shadow.
 		
-bs_lrgtenment_bkn01.wdr
-og_bs3blk04c.wdr
-og_bs3blk05.wdr
-rt1b_ksun.wdr
-rt6a_ksunss.wdr
-rt6a_ksun_detail.wdr
-	Hove Beach:
+Hove Beach:
 		-Fixed overly reflective large residential buildings due to incorrect specular maps.
 		-Fixed missing Native American Engines sign and building mesh.
 		-Fixed triangular ad pole missing a sign near RON Gas Station, UV fixes.
 		-Fixed back of building located under Broker Bridge face AO being too dark.
 		-Fixed Diner 69 sign not casting shadow, roof specular tiling, and specular maps improvements.
 		
-bkn_bs1_ware1.wdr
-	Downtown:
+Downtown:
 		-Fixed UV mapping on roof of warehouse beside "Rigged to Blow" mission bomb truck location and adjusted AO intensity.
-
-sb5_shops.wdr	
-	South Bohan, across player apartment:
+	
+South Bohan, across player apartment:
 		-Fixed 24/7 signs and building normals.
 	
-cifount1_ksxr_.wdr
-	Props:
+Props:
 		-Improved drinking fountain to better fit reference photo, added specular and normal maps.
 
-
-
-
-
-
-brook_s_4.wbn brook_s_6.wbn
-brook_s_7.wbn
-brook_s_13.wbn
-
-coney1_ksboard.wtd
-coneystalls1_01.wtd ks_coneypier.wtd
-
-Consolidated fixes:
--
-
-11/05/2023
+		11/05/2023
+		
 -Minor fixes to Firefly Island boardwalk stalls/buildings
 -Fixed Dukes Police Station stuccos
 -Fixed Middle Park East Safehouse lampshades casting shadows
@@ -119,7 +58,7 @@ Consolidated fixes:
 -Fixed Bohan construction site ramp collision and one-way glass collision that would trap the player
 -Fixed Firefly Island boardwalk ground collision holes
 
-12/13/2023
+		12/13/2023
 
 Broker:
 -Fixed more broken LOD mesh normals and vertex shading
@@ -163,7 +102,7 @@ Props:
 -Enabled shadows of chains on the sea fence
 -Fixed jetty wood broken normals 
 
-12/15/2023
+		12/15/2023
 
 Dukes:
 -Reworked Stout Blarneys bar courtyard, fixed normals, re-adjusted UVs, corrected materials, reworked buntings
@@ -176,7 +115,7 @@ Broker:
 -Fixed "Turning You On" awning transparent underside and surround buildings' UVs, normals, broken geometry, and adjusted collisions
 -Fixed floating dirt that surrounds Broker Hospital
 
-05/28/2024
+		05/28/2024
 
 Hove Beach:
 -Minor touch-ups of previous fixes for sidewalks, roads, alleyways, and structures
@@ -287,7 +226,7 @@ Props/misc:
 -Fixed worn-down pier and concrete cinder normals across the map
 -Fixed water tower LOD material mismatch
 
-08/25/2024
+		08/25/2024
 
 Hove Beach:
 -Removed duplicate fire escape in alleyway behind residential building in front to the left of safehouse
@@ -353,7 +292,7 @@ Props:
 -Fixed box stack broken normals
 -Fixed food stall broken normals
 
-09/20/2025
+		09/20/2025
 
 Hove Beach:
 -Fixed remaining metal grate smoothing groups
@@ -375,7 +314,27 @@ Algonquin:
 South Bohan:
 -Fixed staircase broken normals, up the road from safehouse
 
-10/12/2025
+		10/12/2025
+
+Hove Beach:
+-Fixed remaining metal grate smoothing groups
+
+Beachgate:
+-Fixed inverted normals on brick wall across from Faustin's house
+
+Broker:
+-Fixed Burger Shot fading, smoothing groups, vertex shading, and z-shift on sign models and LODs
+-Fixed several LOD broken normals
+-Fixed green dome building broken smoothing groups on main mesh and LOD
+-Reverted/added RON gas station interior shop lights to match LODs
+
+Algonquin:
+-Fixed Zirconium building LOD smoothing groups (no longer looks like mush)
+-Fixed broken normals on Pay n' Spray garage door in  West Way, Purgatory
+-Fixed broken normals and vertex shading on warehouse building
+
+South Bohan:
+-Fixed staircase broken normals, up the road from safehouse
 
 Alderney:
 - Fixed Booth Tunnel white LOD pop-in at low view distances
@@ -430,3 +389,8 @@ Tudor:
 Misc:
 - Fixed jetty normals across multiple map areas
 - Smoothed normals and corrected missing or misaligned lights on various highway signs throughout the city
+
+		10/14/2025
+		
+Algonquin:
+- Added missing support beam collision to Suffolk police Department building
