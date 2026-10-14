@@ -77,6 +77,7 @@ Charge Island
 - Fixed windows transparency in boatyard.
 - Fixed issue with fence not casting shadow on baseball field.
 - Fixed tanker textures.
+- Fixed broken normals on walkway.
 
 Bohan
 - Removed broken trees LOD in Bohan Industrial.
@@ -89,7 +90,6 @@ Bohan
 - Fixed broken normals on construction site and warehouse in Industrial.
 - Fixed projects in Fortside on Wallkill and Applejack St using wrong fence textures for the entrances.
 - Added more polygons to prevent player from looking through building in half open garage in South Bohan.
-- Fixed broken normals on walkway in Charge Island.
 - Fixed broken normals on Burger Shot building in South Bohan.
 
 Algonquin
