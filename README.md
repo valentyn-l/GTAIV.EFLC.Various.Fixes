@@ -468,6 +468,12 @@ TBoGT
 - Removed untextured piano in Yusef's apartment (textures unrecoverable).
 - Fixed gap in Bahama Mamas club ceiling.
 - Fixed Bahama Mamas club TV z-shift issue.
+- Restored more PC resolution textures for TBoGT.
+- Removed duplicate static neon on Bahama Mama club since it makes neon flickering violently in some camera angles.
+- Fixed Tony's apartment doorbell surface flickering, and added better texture from cutscene model.
+- Fixed METV building roof helipad collision so the helicopter spawns in there won't stuck under the helipad.
+- Updated TBoGT cop textures to higher resolution version from TLAD.
+- Added some higher resolution textures found in other peds assets for TLAD/TBoGT cops.
 
 ### Fixes and Improvements by [Ash_735](https://gtaforums.com/profile/129346-ash_735/)
 - Restored higher-resolution textures from IV PC across TLAD/TBOGT (all TBoGT map textures are now in PC quality, which is why the update is 500 MB larger—but it's definitely worth it).
