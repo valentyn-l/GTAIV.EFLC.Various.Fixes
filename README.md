@@ -515,7 +515,7 @@ TBoGT
 - Adjusted light height beneath subway platform on Mohawk Avenue.
 - Corrected sign UV mapping on the Perestroika building.
 - Fixed normals on the Pay n' Spray garage door in Hove Beach.
-- Improved several bridges' lights - removed redundant coronas, adjusted and synced the turn-on and turn-off times (they can be seen during intro cutscene now).
+- Improved several bridges' lights - removed redundant light sources, adjusted and synced the turn-on and turn-off times (they can be seen during intro cutscene now).
 - Fixed airport bus stop edge doesn't cast shadow.
 - Fixed Bahama Mamas club sign z-shift issue.
 - Corrected placement of offsetted parked vehicles in Schottler. (IV only issue)
@@ -895,7 +895,7 @@ Some beta content makes sense to be restored rather than replaced, not going to 
 - Restored missing ads on the Algonquin - Dukes expressway near the bus depot.
 - Added transparency to carwash roof windows in Purgatory.
 - Restored some missing billboards in East Island City.
-- Restored beta og_bs3blk08 model in Hove Beach since it features more textures that are correctly mapped unlike the final model.
+- Restored beta og_bs3blk08 in Hove Beach since it features more textures that are correctly mapped.
 
 ### Screenshots
 ![HZSKDJt](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/1b735f43-2eb3-4b48-96ec-2124886a142e)
@@ -918,7 +918,6 @@ Some of this content already included in main part of the mod, but here is only 
 - Extracted building textures in Firefly Projects from PS3, since they turned out to be better there than on PC.
 - Changed textures of police booths since they have more detail on consoles than on PC.
 - Changed texture of one air conditioner due to it having bit more saturated texture comparing to PC one.
-- Changed QUB3D arcade machine texture to the one from PS3 because it's slightly less compressed than PC one.
 
 ### Screenshots
 ![Ih7oJo7](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/de36fa51-4224-42b1-963c-aa9cc789e89d)
