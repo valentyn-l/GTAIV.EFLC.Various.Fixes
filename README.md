@@ -241,9 +241,9 @@ Pedestrians
 - Changed beta clothes textures to the final versions.
 - Changed beta Tom Goldberg photo to the final one (special thanks to [Magic_Al](https://gtaforums.com/profile/171594-magic_al/) for sharing the Xbox texture of Goldberg's photo).
 - Fixed text on the Contender ad in Northwood.
-- Changed inscription "Crazy Ivan's" to "Спиртной Магазин."
+- Changed inscription "Crazy Ivan's" to "Спиртной Магазин".
 - Fixed street names on road signs.
-- Changed Binco ad to "Новинки последней моды."
+- Changed Binco ad to "Новинки последней моды".
 - Fixed wrong prop hat texture from green to black.
 - Replaced beta shop sign LOD textures with final ones in Hove Beach.
 - Fixed p_tank_8 prop different LOD texture.
@@ -271,25 +271,19 @@ Pedestrians
 
 This section includes other people's work that has been provided for the mod.
 
-### Fixes by [1heart2](https://gtaforums.com/profile/1356875-heart5671/)
-Broker & Dukes
+### Fixes and improvements by [1heart2](https://gtaforums.com/profile/1356875-heart5671/)
+Broker
 - Fixed hole and one stretched barrier UV on Platypus.
 - Fixed a gap in Comrades Bar building in Hove Beach.
 - Fixed one stretched road UV in Hove beach.
-- Restored several Firefly Projects buildings LOD meshes from Xbox. (They are extremely broken on PC)
+- Restored several Firefly Projects buildings LOD meshes from Xbox since they are extremely broken on PC.
 - Fixed several holes in a building from East Hook.
-- Fixed two oil tank top stretched UV in BOABO.
-- Changed a trailer's model in BOABO so it matches LOD.
+- Fixed two oil tank LODs top stretched UV in BOABO.
 - Fixed several trailer LODs one side flipped UV in BOABO and Downtown.
 - Fixed fire hydrant stuck underground slightly in Beechwood City.
-- Fixed a building roof LOD wrong texture at the Francis International Airport.
-- Fixed various light meshes are only visible from one side in some houses of Meadow Hills.
-- Fixed wall LOD wrong texture in Steinway.
 - Fixed several signs and canopy UV mapping in Broker.
 - Fixed hole between Comrades Bar building and bar door.
-- Cleanup several wrong shop sign UV mapping in Cerveza Heights.
 - Fixed Broker Bridge several bulbs lack lights, and removed several lights due to there are no bulb.
-- Cleanup light sources in a house from Meadow Hills, removed several redundant light sources and restored a missing light source for one light model.
 - Restored ks_limowall_04 garage door part for Roman's cab depot.
 - Fixed LOM bank LOD stretched textures in Hove Beach.
 - Fixed some signs wrong UV mapping and missing geometry in Hove Beach.
@@ -314,15 +308,21 @@ Broker & Dukes
 - Fixed several building LODs broken normals in BOABO.
 - Fixed bollard and two warning signs that were hidden inside sugar factory in BOABO.
 - Fixed several lights under Algonquin-Dukes expressway near the bus depot using wrong textures, also fixed two lights stuck in the expressway inside.
+
+Dukes
+- Fixed various light meshes are only visible from one side in some houses of Meadow Hills.
+- Fixed a building roof LOD wrong texture at the Francis International Airport.
+- Fixed wall LOD wrong texture in Steinway.
+- Cleanup light sources in a house from Meadow Hills, removed several redundant light sources and restored a missing light source for one light model.
 - Fixed an invisible graffiti in the alley of Cerveza Heights due to flipped normal direction.
 - Fixed some wall LODs broken normals in FIA.
 - Restored missing light sources for some rail lights in Meadows Park and East Island City.
+- Cleanup several wrong shop sign UV mapping in Cerveza Heights.
 - Fixed stretched UV for the bowl on the restaurant roof in Cerveza Heights.
 
 Bohan
 - Fixed holes in a building from Northern Gardens.
 - Fixed several wire shader in Northern Gardens.
-- Fixed wrong lamppost rotation in Industrial.
 - Fixed floating stone in Boulevard.
 - Fixed a floating p_cctv_1 in Charge Island.
 - Fixed two floating wall lights in Boulevard and Fortside.
@@ -334,8 +334,10 @@ Bohan
 - Fixed floating building in Boulevard.
 - Fixed missing rail track reflection in Chase Point.
 - Fixed various issues for roofs of several buildings in South Bohan, like floating meshes, flickering edges and wrong wall texture.
-- Fixed various issues for the tanker, like missing geometry, wrong railing material, and cleanup some broken normals and stretched UVs.
 - Fixed various jetties broken normals in Bohan.
+
+Charge Island
+- Fixed various issues for the tanker, like missing geometry, wrong railing material, and cleanup some broken normals and stretched UVs.
 
 Algonquin
 - Added light source for lamppost in Northwood Heights Bridge.
@@ -377,7 +379,6 @@ Alderney
 - Fixed one Honkers club logo hidden behind the canopy.
 - Fixed one emissive window position in Acter.
 - Fixed missing rubbish textures in Acter (TLAD and TBoGT only issue).
-- Fixed floating bush in Acter Industrial Park from IV and TLAD (IV and TLAD only issue).
 - Fixed broken normals on warehouse in Acter.
 - Fixed a rock dark vertex shading in Happiness Island.
 - Cleanup Booth Tunnel wall some geometry with stretched UV.
@@ -404,7 +405,9 @@ Pedestrians
 
 Props Placement Fixes
 - Changed a ladder in Chase Point, since original ladder used there soft lock player when sliding down quickly (IV and TLAD only issue).
+- Fixed wrong lamppost rotation in Industrial.
 - Fixed a floating aerial in Schottler.
+- Changed a trailer's model in BOABO so it matches LOD.
 - Fixed floating fire hydrant in Northwood.
 - Changed security hut model to match LOD in Hove Beach and Fishmarket South.
 - Fixed several floating wall lights in Fishmarket South.
@@ -424,6 +427,7 @@ Props Placement Fixes
 - Fixed two trees stuck together in South Bohan.
 - Fixed a wall light that was hidden inside sugar factory in BOABO.
 - Fixed floating radio mast on a building roof in Fishmarket South.
+- Fixed floating pedestrian sign in City Hall.
 - Removed a wall light that hidden in the building from Purgatory since there is no suitable position to re-place it.
 - Fixed several wall light stuck in the subway tunnel wall in North Holland.
 - Adjusted several plants position in the Majestic Hotel top so they won't clip into glass or railing.
@@ -432,13 +436,13 @@ Props Placement Fixes
 - Fixed two bushes stuck underground in Northwood.
 - Fixed a wall light position in Northwood.
 - Fixed some floating public phones in Star Junction.
-- Fixed floating pedestrian sign in City Hall.
 - Fixed a floating tree in Berchem.
+- Fixed floating bush in Acter Industrial Park from IV and TLAD (IV and TLAD only issue).
 
 Misc
 - Updated various cutscene props, TBoGT interiors and various props texture resolution to PC quality.
-- Changed some emissive model shaders to fix render order issue, and allow them to cast shadows. (Thanks [Parallellines](https://gtaforums.com/profile/1317965-parallellines/)' advice)
-- Restored various higher resolution textures from Xbox 360. (Thanks to [Magic_Al](https://gtaforums.com/profile/171594-magic_al/) for finding those textures)
+- Changed some emissive model shaders to fix render order issue, and allow them to cast shadows (Thanks [Parallellines](https://gtaforums.com/profile/1317965-parallellines/)' advice).
+- Restored various higher resolution textures from Xbox 360 (Thanks to [Magic_Al](https://gtaforums.com/profile/171594-magic_al/) for finding those textures).
 - Fixed various fences, chains, canopy and other meshes don't cast shadows.
 - Fixed several buildings and props still use low resolution console textures.
 - Fixed several grass and dirt wrong shader.
@@ -475,7 +479,7 @@ TBoGT
 - Updated TBoGT cop textures to higher resolution version from TLAD.
 - Added some higher resolution textures found in other peds assets for TLAD/TBoGT cops.
 
-### Fixes and Improvements by [Ash_735](https://gtaforums.com/profile/129346-ash_735/)
+### Fixes and improvements by [Ash_735](https://gtaforums.com/profile/129346-ash_735/)
 - Restored higher-resolution textures from IV PC across TLAD/TBOGT (all TBoGT map textures are now in PC quality, which is why the update is 500 MB larger—but it's definitely worth it).
 - Restored higher-resolution textures from TLAD to TBOGT.
 - Recreated spec maps in higher resolution across TLAD/TBOGT, also using final textures to remove inconsistencies.
@@ -503,7 +507,7 @@ TBoGT
 - Fixed missing shadow from a wall in Northwood near the junkyard.
 - Fixed flickering billboard in Hove Beach.
 
-### Fixes and Improvements by [_CP_](https://gtaforums.com/profile/257839-_cp_/)
+### Fixes and improvements by [_CP_](https://gtaforums.com/profile/257839-_cp_/)
 - Added more light sources to the subway station terminal in Francis International Airport.
 - Added volumetric light sources to Betta signs in BOABO.
 - Added more light sources to the Grotti car dealership in Algonquin.
@@ -537,7 +541,7 @@ TBoGT
 ### Fixes by [juliomonk](https://github.com/juliomonk)
 - Fixed "Seat_OnSteps" scenario in Downtown Broker where pedestrians were floating.
 
-### Improvements by [Magic_Al](https://gtaforums.com/profile/171594-magic_al/)
+### Fixes and improvements by [Magic_Al](https://gtaforums.com/profile/171594-magic_al/)
 - Added dynamic shadows from lights in the Castle Gardens tunnel.
 - Added dynamic shadows from railway lights in Hove Beach, Schottler, and Bohan.
 - Added dynamic shadows from lights in the airport car park.
@@ -583,7 +587,7 @@ TBoGT
 ### Improvements by [Pingwinek](https://gtaforums.com/profile/1360054-pingwinek/)
 - Replaced cutscene sofa texture in Roman’s cab depot office with the one from the in-game interior.
 
-### Fixes and Improvements by [RecklessGlue540](https://gtaforums.com/profile/1326547-recklessglue540/)
+### Fixes and improvements by [RecklessGlue540](https://gtaforums.com/profile/1326547-recklessglue540/)
 - Added dynamic omni lights in the Schottler tunnel.
 - Fixed incorrect light rotation for one of the traffic light models.
 
@@ -995,25 +999,22 @@ Episodic content only.
 - Fixed bug which replaced bushes with trees in Bohan.
 - Changed beta Jim and Jason photos to the final.
 - Fixed IG_Pgirl_01 hair texture, also better textures were taken from console.
-- Changed weapons on Shifting Weight mission cutscene: female with pistol was replaced with micro uzi, to match the sound of shot from it, sweeper was replaced with pistol, so it won't clip with wall when Johnny runs to bikes.
+- Changed weapons on Shifting Weight mission cutscene: female with pistol was replaced with micro uzi, to match the sound of shot from it; Johnny with sweeper was replaced with pistol, so it won't clip with wall when he runs to bikes.
 - Changed racing bat texture from wood to aluminum to match console look.
-- Restored missing normal and specular textures for Johnny's boots.Fixed broken M_Y_Gangels_04 glasses.
 - Fixed broken M_Y_Gangels_04 glasses.
 
 #### TBoGT
-- Fixed cutscene golden uzi texture.
 - Fixed missing textures on Bahama Mamas club.
 - Fixed street display through the door in Maisonette 9 club (very noticeable when using 2dfx mod).
 - Fixed bug which replaced trees with flower pots in Meadows Park and Firefly Island.
 - Restored some missing trees in Hove Beach and Firefly Island.
 - Fixed incorrect bush model in Bohan (same problem as with trees in TLAD, only wrong bush model was chosen).
-- Better textures were taken from XBOX for F_Y_Pgirl_01.
+- Better textures were taken from Xbox for F_Y_Pgirl_01.
 - Added variety to M_Y_ClubBlack_01 ped in some cutscenes with him (he always appeared in same look).
 - Fixed Al Di Napoli hairstyle.
 - Restored Jeremy St. Ives in one more frame in Blog This cutscene.
 - Fixed incorrect wheels on Turismo during intro cutscene.
 - Improved textures for most of the TBoGT exclusive ads in Star Junction.
-- Restored missing normal and specular textures for Luis' drug or money bag.
 - During "Not So Fast" cutscene, game will use timecyc from the street, and not from interior.
 - Fixed M_Y_Clubeuro_03 normal map face texture.
 
@@ -1062,6 +1063,8 @@ Episodic content only.
 - #### Console Visuals
   - [GTA Forums](https://gtaforums.com/topic/989098-console-visuals-the-complete-edition/)
   - [GitHub](https://github.com/Tomasak/Console-Visuals)
+
+- #### [Radio Restoration](https://github.com/Tomasak/GTA-Downgraders)
 
 - #### [Sugar Chomps Fix](https://gtaforums.com/topic/974798-donnits-bakery/)
 
