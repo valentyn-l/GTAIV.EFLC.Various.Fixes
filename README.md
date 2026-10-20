@@ -261,6 +261,7 @@ Pedestrians
 <img width="1000" height="827" alt="image thumb png 31cb8ed1893a057055013fa46f62e187" src="https://github.com/user-attachments/assets/66a33c76-22c4-438d-a3ea-f916806c45d2" />
 <img width="273" height="750" alt="image thumb png 24e194eb6f638d50d7d0b561794e64b9" src="https://github.com/user-attachments/assets/f890d5ea-86e8-4239-b368-7b65747d3840" />
 <img width="383" height="750" alt="image thumb png c880cc0b493e75718acc431cf3f12628" src="https://github.com/user-attachments/assets/4aafad39-a321-474d-843d-84401baa0f87" />
+
 ![VvzM6OY](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/c14dbc86-1659-4669-9f76-fa3552f1520b)
 ![sfX8GWB](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/a5bce19b-e734-4cae-b41f-2403843eceef)
 ![PbvFLKn](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/31dec7b8-d052-4d89-8637-7b00c5d94c6f)
@@ -985,7 +986,6 @@ All sorts of texture improvements and other things will be in this section.
 ![6pjSLZO](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/c1dfd1ad-5719-46aa-9a5b-a6596f1945a2)
 ![RGYcY9K](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/dd66bcb6-3e1a-449f-bb49-979845c990f2)
 ![vsgkZ8D](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/4062aa5e-4564-4685-bda9-9ea148182cc6)
-![aNXveV9](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/f5b0ee21-d2b4-4b09-92ea-e1cdda8502bf)
 ![JHAl3ew](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/61927f93-8467-496a-9e57-efde92097ef4)
 ![KmGOVwi](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/f7ce939d-9e76-422c-a876-bc9081f6c39c)
 
@@ -1039,6 +1039,7 @@ Episodic content only.
 ![S4FVseS](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/5b737466-24a4-4cdc-88d0-49b0792e1f92)
 ![HfwjKnb](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/d1eb9807-b749-43d2-a650-302219e47a20)
 ![JZlLpsm](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/a6a8be2e-5aeb-4c46-907d-96bdfbd79db5)
+![aNXveV9](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/f5b0ee21-d2b4-4b09-92ea-e1cdda8502bf)
 
 ## Optional Content
 
