@@ -133,8 +133,8 @@ Algonquin
 - Fixed texture of parking lines in Colony Island and on parking lot in Purgatory.
 - Fixed wrong material of Broker Bridge structure from Fishmarket South district.
 - Fixed a couple of fences in Fishmarket North district:
-• Broken fence that is used on Harboring a Grudge mission now casts shadow, also its texture has been changed to match the other fences that are connected to it;
-• Again on Harboring a Grudge mission a fence near the climbing spot now has fixed barbed wire texture.
+  - Broken fence that is used on Harboring a Grudge mission now casts shadow, also its texture has been changed to match the other fences that are connected to it;
+  - Again on Harboring a Grudge mission a fence near the climbing spot now has fixed barbed wire texture.
 - Fixed wrong parking sign LOD texture in Westminster.
 - Fixed wrong material of yellow fences on helipad in Westminster.
 - Fixed wrong material of balcony railings on one of the buildings in Middle Park West district.
@@ -186,7 +186,7 @@ Misc
 - Fixed wrong material of stickers on blue dumpster.
 - Fixed shoes texture on Platypus ship cabin.
 - Changed models of some trailers to those that matches the LODs.
-- Fixed pissing animation speed on mission "Meltdown".
+- Fixed pissing animation speed on mission Meltdown.
 - Restored three pictures in Homebrew Cafe that were hidden behind the wall.
 - Fixed curtains and window frames displaying only from one side in Irish Bar.
 - Fixed cj_rub_pile_3 broken normals (prop with bunch of boxes).
@@ -349,7 +349,7 @@ Algonquin
 - Fixed floating LOD mesh in Varsity Heights.
 - Fixed floating building LOD and some holes from it in East Holland.
 - Fixed hole under East Borough Bridge.
-- Fixed Majestic Hotel light position.
+- Fixed Majestic Hotel light source position.
 - Added more light sources for a store's signs in Star Junction.
 - Cleanup one scaff LOD various wrong UV mapping in The Triangle.
 - Higher resolution console golf net LOD texture from PC TLAD.
@@ -525,7 +525,7 @@ TBoGT
 - Improved several bridges' lights - removed redundant light sources, adjusted and synced the turn-on and turn-off times (they can be seen during intro cutscene now).
 - Fixed airport bus stop edge doesn't cast shadow.
 - Fixed Bahama Mamas club sign z-shift issue.
-- Corrected placement of offsetted parked vehicles in Schottler. (IV only issue)
+- Added EFLC Schottler parked vehicles placement fix for IV.
 
 ### Fixes and improvements by [DayL](https://gtaforums.com/profile/928141-dayl/)
 - Fixed broken beach LOD texture in Firefly Island.
@@ -579,7 +579,7 @@ TBoGT
 - Fixed ck_radar_tower culling issue.
 
 ### Improvements by [Olanov](https://gtaforums.com/profile/922375-olanov/)
-- Added variety to cops arresting Billy in the *This Sh*t's Cursed* mission.
+- Added variety to cops arresting Billy in the This Sh*t's Cursed mission.
 
 ### Fixes by [Panzermann11](https://gtaforums.com/profile/1201841-panzermann11/)
 - Fixed N.O.O.S.E. gas masks using the incorrect texture (specular instead of diffuse).
@@ -599,12 +599,13 @@ TBoGT
 - Fixed several pillars disappear directly after being shot in Perestroika.
 - Fixed Burger Shot interior LOD glass shader.
 - Fixed Alderney Boat House door missing geometry and glass back-face culling issue.
-- Fixed Russian clothes shop glass shader.
-- Fixed Russian clothes shop sign back-face culling issue.
-- Fixed Russian clothes shop counter missing geometry.
-- Fixed Russian clothes shop collision issue that causes you could hear the shop music and road noise stopped when player is still outside.
+- Fixed various issues in the Russian clothes shop:
+  - Fixed glass shader.
+  - Fixed sign back-face culling issue.
+  - Fixed counter missing geometry.
+  - Fixed collision issue that causes you could hear the shop music and road noise stopped when player is still outside.
 
-### Fixes by [ShakeSwagger](https://gtaforums.com/profile/1354816-snakeswagger/)
+### Fixes by [SnakeSwagger](https://gtaforums.com/profile/1354816-snakeswagger/)
 - Fixed Lyle Rivas’ apartment door pop-in issue.
 
 ### Fixes by [TheYoshiPunch](https://gtaforums.com/profile/1145901-theyoshipunch/)
@@ -689,7 +690,7 @@ TBOGT
   - Fixed staircase broken normals, up the road from safehouse.
 
 #### Broker:
-  - Fixed UV mapping on roof of warehouse beside "Rigged to Blow" mission bomb truck location and adjusted AO intensity.
+  - Fixed UV mapping on roof of warehouse beside Rigged to Blow mission bomb truck location and adjusted AO intensity.
   - Fixed Broker Hospital normals, smoothing groups, and warped UVs.
   - Fixed dark AO in building courtyard in Broker.
   - Fixed BAOBAO road car spawn collision.
