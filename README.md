@@ -252,9 +252,6 @@ Pedestrians
 ![GVuupdK](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/a848e366-ce0a-458a-81b5-16799560de2b)
 ![VL1ckgG](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/7d5fd953-7d43-4f52-bd98-8d9124d0367a)
 ![1tB6E7O](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/088151d8-f5f8-4448-ba02-14112be75892)
-![VvzM6OY](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/c14dbc86-1659-4669-9f76-fa3552f1520b)
-![sfX8GWB](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/a5bce19b-e734-4cae-b41f-2403843eceef)
-![PbvFLKn](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/31dec7b8-d052-4d89-8637-7b00c5d94c6f)
 
 ---
 
@@ -264,6 +261,10 @@ Pedestrians
 <img width="1000" height="827" alt="image thumb png 31cb8ed1893a057055013fa46f62e187" src="https://github.com/user-attachments/assets/66a33c76-22c4-438d-a3ea-f916806c45d2" />
 <img width="273" height="750" alt="image thumb png 24e194eb6f638d50d7d0b561794e64b9" src="https://github.com/user-attachments/assets/f890d5ea-86e8-4239-b368-7b65747d3840" />
 <img width="383" height="750" alt="image thumb png c880cc0b493e75718acc431cf3f12628" src="https://github.com/user-attachments/assets/4aafad39-a321-474d-843d-84401baa0f87" />
+
+![VvzM6OY](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/c14dbc86-1659-4669-9f76-fa3552f1520b)
+![sfX8GWB](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/a5bce19b-e734-4cae-b41f-2403843eceef)
+![PbvFLKn](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/31dec7b8-d052-4d89-8637-7b00c5d94c6f)
 
 ---
 
@@ -378,7 +379,6 @@ Alderney
 - Fixed several too reflective buildings in Leftwood.
 - Fixed one Honkers club logo hidden behind the canopy.
 - Fixed one emissive window position in Acter.
-- Fixed missing rubbish textures in Acter (TLAD and TBoGT only issue).
 - Fixed broken normals on warehouse in Acter.
 - Fixed a rock dark vertex shading in Happiness Island.
 - Cleanup Booth Tunnel wall some geometry with stretched UV.
@@ -404,7 +404,7 @@ Pedestrians
 - Fixed peds wall-leaning scenario coordinates in BOABO (In vanilla sometimes they spawn on the top of the wall but sometimes not, but anyway now it should be fixed).
 
 Props Placement Fixes
-- Changed a ladder in Chase Point, since original ladder used there soft lock player when sliding down quickly (IV and TLAD only issue).
+- Changed a ladder from Chase Point in IV and TLAD, since original ladder used there soft lock player when sliding down quickly.
 - Fixed wrong lamppost rotation in Industrial.
 - Fixed a floating aerial in Schottler.
 - Changed a trailer's model in BOABO so it matches LOD.
@@ -437,7 +437,7 @@ Props Placement Fixes
 - Fixed a wall light position in Northwood.
 - Fixed some floating public phones in Star Junction.
 - Fixed a floating tree in Berchem.
-- Fixed floating bush in Acter Industrial Park from IV and TLAD (IV and TLAD only issue).
+- Added TBoGT Acter Industrial Park floating bush fix to IV and TLAD.
 
 Misc
 - Updated various cutscene props, TBoGT interiors and various props texture resolution to PC quality.
@@ -464,10 +464,13 @@ Misc
 TLAD
 - Fixed Ashley apartment lamp dark vertex shading.
 - Fixed Lost club and Angels of Death club interior some lights z-shift issues.
+- Fixed missing rubbish textures in Acter.
 - Fixed IG_Pgirl_01 wrong necklace shader, also fixed issue where some parts of the hairstyle displaying incorrectly.
+- Added some higher resolution textures found in other peds assets for TLAD/TBoGT cops.
 
 TBoGT
 - Fixed two ECola billboards wrong UV mapping at night in Star Junction.
+- Fixed missing rubbish textures in Acter.
 - Fixed PC tree model blocked a shot in Going Deep mission cutscene.
 - Removed untextured piano in Yusef's apartment (textures unrecoverable).
 - Fixed gap in Bahama Mamas club ceiling.
@@ -983,6 +986,8 @@ All sorts of texture improvements and other things will be in this section.
 ![6pjSLZO](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/c1dfd1ad-5719-46aa-9a5b-a6596f1945a2)
 ![RGYcY9K](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/dd66bcb6-3e1a-449f-bb49-979845c990f2)
 ![vsgkZ8D](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/4062aa5e-4564-4685-bda9-9ea148182cc6)
+![JHAl3ew](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/61927f93-8467-496a-9e57-efde92097ef4)
+![KmGOVwi](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/f7ce939d-9e76-422c-a876-bc9081f6c39c)
 
 ---
 
@@ -991,17 +996,20 @@ All sorts of texture improvements and other things will be in this section.
 Episodic content only.
 
 #### TLAD
-- Fixed missing ramp texture.
-- Fixed missing textures on Cluckin' Bell.
-- Fixed missing trashcan texture.
+- Fixed missing truck ramp texture.
+- Fixed missing Cluckin' Bell textures in Berchem.
+- Fixed missing sticker texture on arm wrestling bin.
 - Fixed missing texture on random Algonquin building.
-- Fixed missing fence texture.
+- Fixed missing fence texture in Port Tudor.
 - Fixed bug which replaced bushes with trees in Bohan.
 - Changed beta Jim and Jason photos to the final.
 - Fixed IG_Pgirl_01 hair texture, also better textures were taken from console.
 - Changed weapons on Shifting Weight mission cutscene: female with pistol was replaced with micro uzi, to match the sound of shot from it; Johnny with sweeper was replaced with pistol, so it won't clip with wall when he runs to bikes.
 - Changed racing bat texture from wood to aluminum to match console look.
 - Fixed broken M_Y_Gangels_04 glasses.
+- Added helmet to DeSean and glasses to M_M_UpEast_01 ped in Shifting Weight cutscene.
+- Combined jacket textures of m_y_gaygang_01 ped, also restored unused glasses in Diamonds in The Rough mission cutscene.
+- Fixed chinese cop variation broken hands animation.
 
 #### TBoGT
 - Fixed missing textures on Bahama Mamas club.
@@ -1016,7 +1024,12 @@ Episodic content only.
 - Fixed incorrect wheels on Turismo during intro cutscene.
 - Improved textures for most of the TBoGT exclusive ads in Star Junction.
 - During "Not So Fast" cutscene, game will use timecyc from the street, and not from interior.
+- Improved F_Y_Asianclub_01, F_Y_Asianclub_02, F_Y_Cloeparker, F_Y_Dancer_01, F_Y_Hostess, M_M_Gtri_Hi_01, M_M_Gtri_Hi_02, M_Y_Glost_01, M_Y_Glost_02, M_Y_Gtri_Lo_01, M_Y_Mobparty, M_Y_Uptown_01 various textures.
 - Fixed M_Y_Clubeuro_03 normal map face texture.
+- Restored missing Tony's bodyguards in first half of the Frosting On The Cake mission cutscene.
+- Combined jacket textures of m_y_gaygang_01 ped, also restored unused glasses in Frosting On The Cake mission cutscene.
+- Fixed missing construction beam texture in For The Man Who Has Everything mission cutscene.
+- Fixed chinese cop variation broken hands animation.
 
 ### Screenshots
 ![YT5LfaX](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/a42eabd8-60e3-4b76-b59e-1fda8a40efcc)
@@ -1027,8 +1040,6 @@ Episodic content only.
 ![HfwjKnb](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/d1eb9807-b749-43d2-a650-302219e47a20)
 ![JZlLpsm](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/a6a8be2e-5aeb-4c46-907d-96bdfbd79db5)
 ![aNXveV9](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/f5b0ee21-d2b4-4b09-92ea-e1cdda8502bf)
-![JHAl3ew](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/61927f93-8467-496a-9e57-efde92097ef4)
-![KmGOVwi](https://github.com/valentyn-l/GTAIV.EFLC.Various.Fixes/assets/60371520/f7ce939d-9e76-422c-a876-bc9081f6c39c)
 
 ## Optional Content
 
