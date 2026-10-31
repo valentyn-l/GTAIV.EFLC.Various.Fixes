@@ -176,7 +176,6 @@ Misc
 - Fixed incorrect wheels on Roman's Taxi during intro cutscene.
 - Changed Mallorie clothes on Luck of the Irish cutscene, so her hand won't clip through jacket and makes visible her watches in this cutscene.
 - Fixed cutscene cord transparency.
-- Changed chair (gb_diningchr02) textures to ones that cutscene model uses.
 - During "Museum Piece" cutscene, game will use timecyc from the street, and not from interior.
 - Fixed painting above bed in Playboy X apartment.
 - Fixed pool table collision in Playboy X apartment.
@@ -281,10 +280,9 @@ Broker
 - Fixed several holes in a building from East Hook.
 - Fixed two oil tank LODs top stretched UV in BOABO.
 - Fixed several trailer LODs one side flipped UV in BOABO and Downtown.
-- Fixed fire hydrant stuck underground slightly in Beechwood City.
 - Fixed several signs and canopy UV mapping in Broker.
 - Fixed hole between Comrades Bar building and bar door.
-- Fixed Broker Bridge several bulbs lack lights, and removed several lights due to there are no bulb.
+- Restored Broker Bridge missing light sources for some bulbs, and removed several light sources since there are no bulb.
 - Restored ks_limowall_04 garage door part for Roman's cab depot.
 - Fixed LOM bank LOD stretched textures in Hove Beach.
 - Fixed some signs wrong UV mapping and missing geometry in Hove Beach.
@@ -292,10 +290,10 @@ Broker
 - Removed broken 247 supermarket emissive LOD in Hove Beach. 
 - Fixed a poster stuck in a door frame partially near Perestroika, also fixed it being too dark at night.
 - Fixed Hove Beach Pay n' Spray garage LOD missing wall mesh in certain distance.
-- Fixed a building door using wrong textures and make player look through building in Hove Beach.
+- Fixed a building door using wrong texture and make player look through building in Hove Beach.
 - Fixed one flickering dirt in Hove Beach.
 - Fixed one too dark grass in Hove Beach.
-- Fixed two rails track LODs flickering during LOD switch in Hove Beach and East Hook.
+- Fixed two rails track LODs flickering during LOD fading in Hove Beach and East Hook.
 - Fixed floating "Screamer" sign in Firefly Island.
 - Fixed several building broken normals in Rotterdam Hill.
 - Fixed S'wish Pizza wrong back door texture in Downtown Broker.
@@ -314,7 +312,7 @@ Dukes
 - Fixed various light meshes are only visible from one side in some houses of Meadow Hills.
 - Fixed a building roof LOD wrong texture at the Francis International Airport.
 - Fixed wall LOD wrong texture in Steinway.
-- Cleanup light sources in a house from Meadow Hills, removed several redundant light sources and restored a missing light source for one light model.
+- Cleanup light sources in a house from Meadow Hills, removed several redundant light sources and restored a missing light source for one light.
 - Fixed an invisible graffiti in the alley of Cerveza Heights due to flipped normal direction.
 - Fixed some wall LODs broken normals in FIA.
 - Restored missing light sources for some rail lights in Meadows Park and East Island City.
@@ -325,8 +323,6 @@ Bohan
 - Fixed holes in a building from Northern Gardens.
 - Fixed several wire shader in Northern Gardens.
 - Fixed floating stone in Boulevard.
-- Fixed a floating p_cctv_1 in Charge Island.
-- Fixed two floating wall lights in Boulevard and Fortside.
 - Fixed some LODs broken normals and wrong UV in Broker and Bohan.
 - Fixed East Borough Bridge's holes near East Island City.
 - Fixed one fence various wrong materials on a construction site in Chase Point.
@@ -338,7 +334,7 @@ Bohan
 - Fixed various jetties broken normals in Bohan.
 
 Charge Island
-- Fixed various issues for the tanker, like missing geometry, wrong railing material, and cleanup some broken normals and stretched UVs.
+- Fixed various issues for the tanker, like missing geometry, wrong railing texture, and cleanup some broken normals and stretched UVs.
 
 Algonquin
 - Added light source for lamppost in Northwood Heights Bridge.
@@ -405,7 +401,9 @@ Pedestrians
 
 Props Placement Fixes
 - Changed a ladder from Chase Point in IV and TLAD, since original ladder used there soft lock player when sliding down quickly.
+- Fixed two floating wall lights in Boulevard and Fortside.
 - Fixed wrong lamppost rotation in Industrial.
+- Fixed a floating p_cctv_1 in Charge Island.
 - Fixed a floating aerial in Schottler.
 - Changed a trailer's model in BOABO so it matches LOD.
 - Fixed floating fire hydrant in Northwood.
@@ -422,6 +420,7 @@ Props Placement Fixes
 - Fixed unconnected cable in East Hook.
 - Fixed some floating vents and pipes on one building roof in Schottler.
 - Fixed a wall light stuck in the wall from Beechwood City.
+- Fixed fire hydrant stuck underground slightly in Beechwood City.
 - Fixed floating aerial on Brucie's apartment roof.
 - Fixed a fire hydrant stuck underground partially in BOABO.
 - Fixed two trees stuck together in South Bohan.
@@ -440,7 +439,7 @@ Props Placement Fixes
 - Added TBoGT Acter Industrial Park floating bush fix to IV and TLAD.
 
 Misc
-- Updated various cutscene props, TBoGT interiors and various props texture resolution to PC quality.
+- Updated various cutscene props, TBoGT interiors and props texture resolution to PC quality.
 - Changed some emissive model shaders to fix render order issue, and allow them to cast shadows (Thanks [Parallellines](https://gtaforums.com/profile/1317965-parallellines/)' advice).
 - Restored various higher resolution textures from Xbox 360 (Thanks to [Magic_Al](https://gtaforums.com/profile/171594-magic_al/) for finding those textures).
 - Fixed various fences, chains, canopy and other meshes don't cast shadows.
@@ -485,6 +484,8 @@ TBoGT
 ### Fixes and improvements by [Ash_735](https://gtaforums.com/profile/129346-ash_735/)
 - Restored higher-resolution textures from IV PC across TLAD/TBOGT (all TBoGT map textures are now in PC quality, which is why the update is 500 MB larger—but it's definitely worth it).
 - Restored higher-resolution textures from TLAD to TBOGT.
+- Updated various cutscene props, TBoGT interiors and props texture resolution to PC quality.
+- Improved textures for various TBoGT exclusive interiors and props.
 - Recreated spec maps in higher resolution across TLAD/TBOGT, also using final textures to remove inconsistencies.
 - Remade some normal maps across TLAD/TBOGT in higher resolution.
 - Copied Split Sides from TLAD over to TBOGT (same building, but used lower-resolution textures and bad mapping in TBOGT).
@@ -494,7 +495,7 @@ TBoGT
 - Improved quality of console golf net texture.
 - Updated Acter residential building textures to higher-resolution versions.
 - Fixed an illogical photo under a table in Ashley's apartment.
-- Fixed cutscene cookhead wrong spec texture, and added more accurate and high-quality textures.
+- Fixed cutscene cookhead wrong specular texture, and added more accurate and high-quality textures.
 - Updated F_Y_Pgirl_01 uppr texture with higher resolution one.
 
 ### Fixes by [brokensymmetry](https://gtaforums.com/profile/1187609-brokensymmetry/)
@@ -921,7 +922,6 @@ Some of this content already included in main part of the mod, but here is only 
 - Changed texture of pedestrian traffic lights.
 - Changed grid texture on golf course in Algonquin.
 - Added transparency to the blinds in ULP office.
-- Added transparency to titles during intro cutscene.
 - Restored laundromat shop sign in East Island City.
 - Extracted building textures in Firefly Projects from PS3, since they turned out to be better there than on PC.
 - Changed textures of police booths since they have more detail on consoles than on PC.
@@ -948,7 +948,6 @@ All sorts of texture improvements and other things will be in this section.
 - Improved some textures for F_Y_Nurse.
 - Changed chair (gb_diningchr02) textures to ones that cutscene model uses.
 - Improved textures of some planes in airport.
-- Removed mouse cursor from Playboy X photo.
 - Changed light bulb model with much better one.
 - Improved ads textures in Downtown Broker and Rotterdam Hill.
 - Improved some textures on Hove Beach subway station, also added normal maps to station roof.
@@ -957,10 +956,8 @@ All sorts of texture improvements and other things will be in this section.
 - Improved some ads textures in Beechwood City.
 - Improved posters and graffiti textures in Bohan near the hospital.
 - Improved textures for various models from manhatxr.img (treeholes, rooftops, balconies).
-- During "Museum Piece" cutscene, game will use timecyc from the street, and not from interior.
 - Changed windows on Steinway Beer Garden building to match the look from Algonquin.
 - Improved some textures of several buildings near the hardware store on Dillon Street.
-- Reduced draw distance of procedurally generated plants so that they fade in and out smoothly, rather than appearing abruptly and thereby catching the eye (however, this does not solve the "pop in" issue, but it should make situation a little better).
 - Added more procedural props to:
 - - Firefly Island beach and Go-Kart track;
 - - Firefly Project beach close to the highway;
@@ -1003,14 +1000,14 @@ Episodic content only.
 - Fixed missing texture on random Algonquin building.
 - Fixed missing fence texture in Port Tudor.
 - Fixed bug which replaced bushes with trees in Bohan.
+- Changed racing bat texture from wood to aluminum to match console look.
 - Changed beta Jim and Jason photos to the final.
 - Fixed IG_Pgirl_01 hair texture, also better textures were taken from console.
-- Changed weapons on Shifting Weight mission cutscene: female with pistol was replaced with micro uzi, to match the sound of shot from it; Johnny with sweeper was replaced with pistol, so it won't clip with wall when he runs to bikes.
-- Changed racing bat texture from wood to aluminum to match console look.
 - Fixed broken M_Y_Gangels_04 glasses.
-- Added helmet to DeSean and glasses to M_M_UpEast_01 ped in Shifting Weight cutscene.
-- Combined jacket textures of m_y_gaygang_01 ped, also restored unused glasses in Diamonds in The Rough mission cutscene.
 - Fixed chinese cop variation broken hands animation.
+- Added helmet to DeSean and glasses to M_M_UpEast_01 ped in Shifting Weight cutscene.
+- Changed weapons on Shifting Weight mission cutscene: female with pistol was replaced with micro uzi, to match the sound of shot from it; Johnny with sweeper was replaced with pistol, so it won't clip with wall when he runs to bikes.
+- Combined jacket textures of m_y_gaygang_01 ped, also restored unused glasses in Diamonds in The Rough mission cutscene.
 
 #### TBoGT
 - Fixed missing textures on Bahama Mamas club.
@@ -1024,13 +1021,13 @@ Episodic content only.
 - Restored Jeremy St. Ives in one more frame in Blog This cutscene.
 - Fixed incorrect wheels on Turismo during intro cutscene.
 - Improved textures for most of the TBoGT exclusive ads in Star Junction.
-- During "Not So Fast" cutscene, game will use timecyc from the street, and not from interior.
 - Improved F_Y_Asianclub_01, F_Y_Asianclub_02, F_Y_Cloeparker, F_Y_Dancer_01, F_Y_Hostess, M_M_Gtri_Hi_01, M_M_Gtri_Hi_02, M_Y_Glost_01, M_Y_Glost_02, M_Y_Gtri_Lo_01, M_Y_Mobparty, M_Y_Uptown_01 various textures.
 - Fixed M_Y_Clubeuro_03 normal map face texture.
+- Fixed chinese cop variation broken hands animation.
 - Restored missing Tony's bodyguards in first half of the Frosting On The Cake mission cutscene.
 - Combined jacket textures of m_y_gaygang_01 ped, also restored unused glasses in Frosting On The Cake mission cutscene.
+- During "Not So Fast" cutscene, game will use timecyc from the street, and not from interior.
 - Fixed missing construction beam texture in For The Man Who Has Everything mission cutscene.
-- Fixed chinese cop variation broken hands animation.
 
 ### Screenshots
 ![YT5LfaX](https://github.com/valentyn-l/GTAIV.Various.Fixes/assets/60371520/a42eabd8-60e3-4b76-b59e-1fda8a40efcc)
